@@ -1,0 +1,5 @@
+Disease name:	Lung  Adenocarcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-188	35254116	We further explored the FHIT-associated kinase (PRKCQ, AURKB and ATM in LUAD as well as PLK3 in LUSC) and FHIT-associated miRNA targets (MIR-188, MIR-323, and MIR-518A-2 in LUAD).	Unknown
+hsa-mir-23	35254116	We further explored the FHIT-associated kinase (PRKCQ, AURKB and ATM in LUAD as well as PLK3 in LUSC) and FHIT-associated miRNA targets (MIR-188, MIR-323, and MIR-518A-2 in LUAD).	Unknown
+hsa-mir-518a-2	35254116	We further explored the FHIT-associated kinase (PRKCQ, AURKB and ATM in LUAD as well as PLK3 in LUSC) and FHIT-associated miRNA targets (MIR-188, MIR-323, and MIR-518A-2 in LUAD).	Unknown

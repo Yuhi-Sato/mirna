@@ -1,0 +1,7 @@
+Disease name:	
+miRNA_name	PMID	Description	Causality
+hsa-mir-125a    https://www.nature.com/articles/s41598-022-20783-7#Abs1
+hsa-mir-23b     
+hsa-mir-210          
+hsa-mir-99b     
+hsa-mir-101-2       

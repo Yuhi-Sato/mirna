@@ -1,0 +1,8 @@
+Disease name:	Early-Stage Cervical Squamous Cell Carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-101	24528073	Use of down-regulation of miR-101 and up-regulation of Cox-2 as markers may play a role in early diagnosis of cervical cancer in Uygur women.	NO
+hsa-mir-1246	23799609	Serum microRNA expression levels can predict lymph node metastasis in patients with early-stage cervical squamous cell carcinoma.	NO
+hsa-mir-20a	23799609	Serum microRNA expression levels can predict lymph node metastasis in patients with early-stage cervical squamous cell carcinoma.	NO
+hsa-mir-2392	23799609	Serum microRNA expression levels can predict lymph node metastasis in patients with early-stage cervical squamous cell carcinoma.	NO
+hsa-mir-3162	23799609	Serum microRNA expression levels can predict lymph node metastasis in patients with early-stage cervical squamous cell carcinoma.	NO
+hsa-mir-4484	23799609	Serum microRNA expression levels can predict lymph node metastasis in patients with early-stage cervical squamous cell carcinoma.	NO

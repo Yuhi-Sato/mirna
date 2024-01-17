@@ -1,0 +1,6 @@
+Disease name:	chromophobe renal cell carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-191	25981392	mir-191, mir-19a, mir-210, and mir-425 miRNAs are expressed differentially in chRCC, and unique expression of miRNAs is associated with the progression and prognosis of chRCC.	NO
+hsa-mir-19a	25981392	mir-191, mir-19a, mir-210, and mir-425 miRNAs are expressed differentially in chRCC, and unique expression of miRNAs is associated with the progression and prognosis of chRCC.	NO
+hsa-mir-210	25981392	mir-191, mir-19a, mir-210, and mir-425 miRNAs are expressed differentially in chRCC, and unique expression of miRNAs is associated with the progression and prognosis of chRCC.	NO
+hsa-mir-425	25981392	mir-191, mir-19a, mir-210, and mir-425 miRNAs are expressed differentially in chRCC, and unique expression of miRNAs is associated with the progression and prognosis of chRCC.	NO

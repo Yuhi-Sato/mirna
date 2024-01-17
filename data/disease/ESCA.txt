@@ -1,0 +1,4 @@
+Disease name:	esophageal carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-490	31737678	3 DEMIs (miR-490-3p, miR-133a-3p, and miR-552-3p) and 281 target genes were identified, and the 3 DEMIs showed high diagnostic value in READ and moderate diagnostic value in ESCA, GAC, and COAD.	Unknown
+hsa-mir-29c	36876834	E2F1 Reduces Sorafenib's Sensitivity of Esophageal Carcinoma Cells via Modulating the miR-29c-3p/COL11A1 Signaling Axis.	Unknown

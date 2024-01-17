@@ -1,0 +1,112 @@
+Disease name:	clear cell renal cell carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-let-7a	28694731	Detection of let-7 miRNAs in urine supernatant as potential diagnostic approach in non-metastatic clear-cell renal cell carcinoma.	NO
+hsa-let-7b	28694731	Detection of let-7 miRNAs in urine supernatant as potential diagnostic approach in non-metastatic clear-cell renal cell carcinoma.	NO
+hsa-let-7d	28694731	Detection of let-7 miRNAs in urine supernatant as potential diagnostic approach in non-metastatic clear-cell renal cell carcinoma.	NO
+hsa-let-7e	28694731	Detection of let-7 miRNAs in urine supernatant as potential diagnostic approach in non-metastatic clear-cell renal cell carcinoma.	NO
+hsa-let-7g	24351440	MicroRNA expression signatures of stage, grade, and progression in clear cell RCC.	NO
+hsa-let-7g	28694731	Detection of let-7 miRNAs in urine supernatant as potential diagnostic approach in non-metastatic clear-cell renal cell carcinoma.	NO
+hsa-mir-1	26036633	MiR-1 downregulation correlates with poor survival in clear cell renal cell carcinoma where it interferes with cell cycle regulation and metastasis.	NO
+hsa-mir-101	28138701	Hypoxia-induced hsa-miR-101 promotes glycolysis by targeting TIGAR mRNA in clear cell renal cell carcinoma.	NO
+hsa-mir-106b	25714014	miR-106b-5p targets tumor suppressor gene SETD2 to inactive its function in clear cell renal cell carcinoma.	YES
+hsa-mir-107	25758424	In summary, our results showed that miR-107 can inhibit cell proliferation and invasiveness of renal cell carcinoma. Furthermore, this study may provide a potential therapeutic regimen for clear cell renal cell carcinoma treatment.	YES
+hsa-mir-10b	24793999	The miR(21/10b) ratio as a prognostic marker in clear cell renal cell carcinoma.	NO
+hsa-mir-10b	28360191	miR-10b is a prognostic marker in clear cell renal cell carcinoma.	NO
+hsa-mir-10b	29672315	MicroRNA-10b Promotes Apoptosis via JNK Pathway in Clear Cell Renal Cell Carcinoma	NO
+hsa-mir-10b	26617769	Our results suggest that miR-10b plays a tumor-suppressive role in ccRCC. Demethylation of miR-10b may be therapeutically beneficial for ccRCC treatment.	YES
+hsa-mir-122	28184927	miR-122 and miR-34a, respectively, may regulate their expression in this cancer	NO
+hsa-mir-124	26002553	We hypothesize that these three miRNAs are fundamentalcontributing to ccRCC aggressive/metastatic behavior; and miR-124-3p especially has a key role through regulating CAV1 and FLOT1 expression. Restoration of the levels of these miRNAs could be considered as a potential therapeutic strategy for ccRCC.	YES
+hsa-mir-125b	25155155	Tumor miR-125b predicts recurrence and survival of patients with clear-cell renal cell carcinoma after surgical resection.	NO
+hsa-mir-126	29202733	Expression of micro-RNAs and genes related to angiogenesis in ccRCC and associations with tumor characteristics	NO
+hsa-mir-136	25450277	This integrative network approach revealed important miRNAs in the ccRCC that can identify specific disease biomarkers, which can be used as targets for cancer treatment.	NO
+hsa-mir-138	28861152	MicroRNA-138 attenuates epithelial-to-mesenchymal transition by targeting SOX4 in clear cell renal cell carcinoma.	YES
+hsa-mir-140	29253611	miRNA-429, miRNA-206, and miRNA-184 and their target gene CCND1, as well as miRNA-140-3p and miRNA-142-5p and their target gene ATP1B1, might play key roles in ccRCC progression and could be useful biomarkers during ccRCC development	NO
+hsa-mir-141	27336447	a tumor suppressive effect of miR-141-3p and miR-145-5p by decreasing migration and invasion of RCC cells could be shown.	YES
+hsa-mir-141	26461224	LncRNA MALAT1 functions as a competing endogenous RNA to regulate ZEB2 expression by sponging miR-200s in clear cell kidney carcinoma.	YES
+hsa-mir-142	29253611	miRNA-429, miRNA-206, and miRNA-184 and their target gene CCND1, as well as miRNA-140-3p and miRNA-142-5p and their target gene ATP1B1, might play key roles in ccRCC progression and could be useful biomarkers during ccRCC development	NO
+hsa-mir-142	24351440	MicroRNA expression signatures of stage, grade, and progression in clear cell RCC.	NO
+hsa-mir-143	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO
+hsa-mir-144	30278113	Construction and comprehensive analysis of dysregulated long non-coding RNA-associated competing endogenous RNA network in clear cell renal cell carcinoma.	NO
+hsa-mir-145	27336447	a tumor suppressive effect of miR-141-3p and miR-145-5p by decreasing migration and invasion of RCC cells could be shown.	YES
+hsa-mir-145	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO
+hsa-mir-146a	30184528	Hypoxia-Regulated miR-146a Targets Cell Adhesion Molecule 2 to Promote Proliferation, Migration, and Invasion of Clear Cell Renal Cell Carcinoma.	YES
+hsa-mir-155	30278113	Construction and comprehensive analysis of dysregulated long non-coding RNA-associated competing endogenous RNA network in clear cell renal cell carcinoma.	NO
+hsa-mir-155	28565840	Overexpression of miR-155 in clear-cell renal cell carcinoma and its oncogenic effect through targeting FOXO3a.	YES
+hsa-mir-155	29534467	Our results further support a role for miR-155 as a promising cancer classifier and potentially as a therapeutic target in ccRCC that merits further investigation	NO
+hsa-mir-15a	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO
+hsa-mir-16	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO
+hsa-mir-181a	29066014	Up-regulation of miR-181a in clear cell renal cell carcinoma is associated with lower KLF6 expression, enhanced cell proliferation, accelerated cell cycle transition, and diminished apoptosis.	YES
+hsa-mir-182	27468875	Compared to the control group, cell viability, colony-forming ability, and numbers of migrated and invaded cells were significantly decreased by transfection with miR-182 mimic but were markedly increased by miR-182 inhibitor (all P < 0.05).	YES
+hsa-mir-182	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO
+hsa-mir-183	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO
+hsa-mir-184	29253611	miRNA-429, miRNA-206, and miRNA-184 and their target gene CCND1, as well as miRNA-140-3p and miRNA-142-5p and their target gene ATP1B1, might play key roles in ccRCC progression and could be useful biomarkers during ccRCC development	NO
+hsa-mir-185	25700976	Our results suggest that the miR-185, as a tumor suppressor, plays a pivotal role by inhibiting VEGFA in VHL-inactivated ccRCC.	NO
+hsa-mir-187	23916610	MicroRNA-187, down-regulated in clear cell renal cell carcinoma and associated with lower survival, inhibits cell growth and migration though targeting B7-H3.	NO
+hsa-mir-195	28089832	Androgen receptor (AR) promotes clear cell renal cell carcinoma (ccRCC) migration and invasion via altering the circHIAT1/miR-195-5p/29a-3p/29c-3p/CDC42 signals.	NO
+hsa-mir-196a	29695508	ANKHD1 positively drives ccRCC cell mitosis via binding to and suppressing mainly miR-29a and to a lesser degree via miR-196a/205, leading to up-regulation in proliferative genes such as CCDN1	NO
+hsa-mir-199a	29773428	MiR-199a-3p acts as a tumor suppressor in clear cell renal cell carcinoma.	NO
+hsa-mir-19a	27779660	miR-19a correlates with poor prognosis of clear cell renal cell carcinoma patients via promoting cell proliferation and suppressing PTEN/SMAD4 expression.	YES
+hsa-mir-200a	26461224	LncRNA MALAT1 functions as a competing endogenous RNA to regulate ZEB2 expression by sponging miR-200s in clear cell kidney carcinoma.	YES
+hsa-mir-200b	26461224	LncRNA MALAT1 functions as a competing endogenous RNA to regulate ZEB2 expression by sponging miR-200s in clear cell kidney carcinoma.	YES
+hsa-mir-200b	29202733	Expression of micro-RNAs and genes related to angiogenesis in ccRCC and associations with tumor characteristics	NO
+hsa-mir-200c	26461224	LncRNA MALAT1 functions as a competing endogenous RNA to regulate ZEB2 expression by sponging miR-200s in clear cell kidney carcinoma.	YES
+hsa-mir-200c	27123083	Aza-induced upregulation of miR-200c may inhibit migration, invasion and EMT in ccRCC cells.	NO
+hsa-mir-200c	26941587	miRNA-200c that could regulate COL5A2 and COL5A3, miRNA-15a that could regulate ATP6V0B and miRNA-155 may play key roles in ccRCC progression.	NO
+hsa-mir-204	29805586	hsa-miR-204 and hsa-miR-218 may be involved in the pathogenesis of ccRCC	NO
+hsa-mir-204	24351440	MicroRNA expression signatures of stage, grade, and progression in clear cell RCC.	NO
+hsa-mir-205	29695508	ANKHD1 positively drives ccRCC cell mitosis via binding to and suppressing mainly miR-29a and to a lesser degree via miR-196a/205, leading to up-regulation in proliferative genes such as CCDN1	NO
+hsa-mir-205	30061948	Comparison of exosomal microRNAs secreted by 786-O clear cell renal carcinoma cells and HK-2 proximal tubule-derived cells in culture identifies microRNA-205 as a potential biomarker of clear cell renal carcinoma.	NO
+hsa-mir-206	26718123	upregulation of miR-206 inhibited renal cancer cell proliferation, invasion and migration	YES
+hsa-mir-206	29253611	miRNA-429, miRNA-206, and miRNA-184 and their target gene CCND1, as well as miRNA-140-3p and miRNA-142-5p and their target gene ATP1B1, might play key roles in ccRCC progression and could be useful biomarkers during ccRCC development	NO
+hsa-mir-21	30278113	Construction and comprehensive analysis of dysregulated long non-coding RNA-associated competing endogenous RNA network in clear cell renal cell carcinoma.	NO
+hsa-mir-21	24793999	The miR(21/10b) ratio as a prognostic marker in clear cell renal cell carcinoma.	NO
+hsa-mir-21	26572589	Thus, a single miRNA may have an impact on the formation of highly tumorigenic cancer spheres in kidney cancer.	NO
+hsa-mir-21	24351440	MicroRNA expression signatures of stage, grade, and progression in clear cell RCC.	NO
+hsa-mir-210	24212760	Serum miR-210 as a potential biomarker of early clear cell renal cell carcinoma.	NO
+hsa-mir-210	30304555	Serum exosomal miR-210 as a potential biomarker for clear cell renal cell carcinoma.	NO
+hsa-mir-210	26670229	miR-21-5p and miR-210-3p resulted the most significantly up-regulated miRNAs in this patient cohort	NO
+hsa-mir-216	30231239	miR-216b Post-Transcriptionally Downregulates Oncogene KRAS and Inhibits Cell Proliferation and Invasion in Clear Cell Renal Cell Carcinoma.	YES
+hsa-mir-217	23790169	miR-217 plays a tumor suppressor role in ccRCC.	NO
+hsa-mir-218	29805586	hsa-miR-204 and hsa-miR-218 may be involved in the pathogenesis of ccRCC	NO
+hsa-mir-221	27427222	miRNA-21 and miRNA-221 expressions were significantly up-regulated in tumor specimens compared to normal tissue (P<0.05).	NO
+hsa-mir-223	25818776	miR-223 promotes renal cancer cell migration and proliferation and may serve as a potential therapeutic target for ccRcc.	YES
+hsa-mir-23b	25014580	Expression of the miR-23b/27b cluster was frequently decreased in clear cell renal cell carcinoma tissue. Reduced expression of these miRNAs increased the risk of disease progression and predicted poor survival. Thus,miR-23b and miR-27b function as tumor suppressors, targeting several oncogenic genes in clear cell renal cell carcinoma cells.	YES
+hsa-mir-27a	26046464	Expression of miR-27a-3p is an independent predictive factor for recurrence in clear cell renal cell carcinoma.	NO
+hsa-mir-27b	25014580	Expression of the miR-23b/27b cluster was frequently decreased in clear cell renal cell carcinoma tissue. Reduced expression of these miRNAs increased the risk of disease progression and predicted poor survival. Thus,miR-23b and miR-27b function as tumor suppressors, targeting several oncogenic genes in clear cell renal cell carcinoma cells.	YES
+hsa-mir-29a	29695508	ANKHD1 positively drives ccRCC cell mitosis via binding to and suppressing mainly miR-29a and to a lesser degree via miR-196a/205, leading to up-regulation in proliferative genes such as CCDN1	NO
+hsa-mir-29a	28089832	Androgen receptor (AR) promotes clear cell renal cell carcinoma (ccRCC) migration and invasion via altering the circHIAT1/miR-195-5p/29a-3p/29c-3p/CDC42 signals.	NO
+hsa-mir-29a	25938468	This study identified 11 commonly dysregulated miRNAs in ccRCC,three of which (miR-199a-5p, miR-22 and miR-429) may represent key miRNAs involved in the pathogenesis of ccRCC. Further studies suggested that miR-199a-5p plays an important role in inhibition of cell invasion of ccRCC cells by suppressing expression of TGFBR1 and JunB.	NO
+hsa-mir-29c	30041179	Upregulation of MIAT Regulates LOXL2 Expression by Competitively Binding MiR-29c in Clear Cell Renal Cell Carcinoma.	NO
+hsa-mir-29c	28089832	Androgen receptor (AR) promotes clear cell renal cell carcinoma (ccRCC) migration and invasion via altering the circHIAT1/miR-195-5p/29a-3p/29c-3p/CDC42 signals.	NO
+hsa-mir-30a	24402943	miR-30c-2-3p and miR-30a-3p: new pieces of the jigsaw puzzle in HIF2α regulation.	NO
+hsa-mir-30a	23826258	Down-Regulated miR-30a in Clear Cell Renal Cell Carcinoma Correlated with Tumor Hematogenous Metastasis by Targeting Angiogenesis-Specific DLL4.	YES
+hsa-mir-30a	24189146	Restricted expression of miR-30c-2-3p and miR-30a-3p in clear cell renal cell carcinomas enhances HIF2α activity.	YES
+hsa-mir-30c-2	24402943	miR-30c-2-3p and miR-30a-3p: new pieces of the jigsaw puzzle in HIF2α regulation.	NO
+hsa-mir-30c-2	24189146	Restricted expression of miR-30c-2-3p and miR-30a-3p in clear cell renal cell carcinomas enhances HIF2α activity.	YES
+hsa-mir-320d	25450277	This integrative network approach revealed important miRNAs in the ccRCC that can identify specific disease biomarkers, which can be used as targets for cancer treatment.	NO
+hsa-mir-335	25846734	miR-335 inhibits the proliferation and invasion of clear cell renal cell carcinoma cells through direct suppression of BCL-W.	NO
+hsa-mir-335	25450277	This integrative network approach revealed important miRNAs in the ccRCC that can identify specific disease biomarkers, which can be used as targets for cancer treatment.	NO
+hsa-mir-340	25450277	This integrative network approach revealed important miRNAs in the ccRCC that can identify specific disease biomarkers, which can be used as targets for cancer treatment.	NO
+hsa-mir-34a	28184927	Downregulation of OCLN and GAS1 in clear cell renal cell carcinoma.	NO
+hsa-mir-375	30082525	MicroRNA-375 Suppresses the Tumor Aggressive Phenotypes of Clear Cell Renal Cell Carcinomas through Regulating YWHAZ.	YES
+hsa-mir-377	25776481	miR-377 functions as a tumor suppressor in human clear cell renal cell carcinoma by targeting ETS1.	YES
+hsa-mir-378	25119741	The tumors of patients with ccRCC had lower expression of miR-126 and miR-378 during the early stages of disease (T1), but higher expression of these miRNAs during the later stages of disease (T2/T3).	NO
+hsa-mir-409	30218446	Phosphoinositide-dependent kinase 1-associated glycolysis is regulated by miR-409-3p in clear cell renal cell carcinoma.	NO
+hsa-mir-424	24351440	MicroRNA expression signatures of stage, grade, and progression in clear cell RCC.	NO
+hsa-mir-425	25450277	This integrative network approach revealed important miRNAs in the ccRCC that can identify specific disease biomarkers, which can be used as targets for cancer treatment.	NO
+hsa-mir-429	26461224	LncRNA MALAT1 functions as a competing endogenous RNA to regulate ZEB2 expression by sponging miR-200s in clear cell kidney carcinoma.	NO
+hsa-mir-429	27549611	Epithelial-mesenchymal transition-associated microRNA/mRNA signature is linked to metastasis and prognosis in clear-cell renal cell carcinoma.	NO
+hsa-mir-429	29253611	miRNA-429, miRNA-206, and miRNA-184 and their target gene CCND1, as well as miRNA-140-3p and miRNA-142-5p and their target gene ATP1B1, might play key roles in ccRCC progression and could be useful biomarkers during ccRCC development	NO
+hsa-mir-429	25938468	This study identified 11 commonly dysregulated miRNAs in ccRCC,three of which (miR-199a-5p, miR-22 and miR-429) may represent key miRNAs involved in the pathogenesis of ccRCC. Further studies suggested that miR-199a-5p plays an important role in inhibition of cell invasion of ccRCC cells by suppressing expression of TGFBR1 and JunB.	NO
+hsa-mir-452	25938468	This study identified 11 commonly dysregulated miRNAs in ccRCC,three of which (miR-199a-5p, miR-22 and miR-429) may represent key miRNAs involved in the pathogenesis of ccRCC. Further studies suggested that miR-199a-5p plays an important role in inhibition of cell invasion of ccRCC cells by suppressing expression of TGFBR1 and JunB.	NO
+hsa-mir-487a	25938468	This study identified 11 commonly dysregulated miRNAs in ccRCC,three of which (miR-199a-5p, miR-22 and miR-429) may represent key miRNAs involved in the pathogenesis of ccRCC. Further studies suggested that miR-199a-5p plays an important role in inhibition of cell invasion of ccRCC cells by suppressing expression of TGFBR1 and JunB.	NO
+hsa-mir-491	25938468	This study identified 11 commonly dysregulated miRNAs in ccRCC,three of which (miR-199a-5p, miR-22 and miR-429) may represent key miRNAs involved in the pathogenesis of ccRCC. Further studies suggested that miR-199a-5p plays an important role in inhibition of cell invasion of ccRCC cells by suppressing expression of TGFBR1 and JunB.	NO
+hsa-mir-492	25815441	Upregulation of microRNA-492 induced by epigenetic drug treatment inhibits the malignant phenotype of clear cell renal cell carcinoma in vitro.	NO
+hsa-mir-497	30183478	MicroRNA-497-5p down-regulation increases PD-L1 expression in clear cell renal cell carcinoma.	NO
+hsa-mir-502	27346408	Polymorphism at the miR-502 binding site in the 3' untranslated region of SET8 gene is associated with the risk of clear cell renal cell carcinoma	NO
+hsa-mir-506	25793370	miR-506 exerts its anti-cancer function by directly targeting FLOT1 in renal cancer, indicating a potential novel therapeutic role in renal cancer treatment.	YES
+hsa-mir-532	25938468	This study identified 11 commonly dysregulated miRNAs in ccRCC,three of which (miR-199a-5p, miR-22 and miR-429) may represent key miRNAs involved in the pathogenesis of ccRCC. Further studies suggested that miR-199a-5p plays an important role in inhibition of cell invasion of ccRCC cells by suppressing expression of TGFBR1 and JunB.	NO
+hsa-mir-556	29569387	A novel functional polymorphism of GSTM3 reduces clear cell renal cell carcinoma risk through enhancing its expression by interfering miR-556 binding.	NO
+hsa-mir-584	21119662	Tumour suppressor microRNA-584 directly targets oncogene Rock-1 and decreases invasion ability in human clear cell renal cell carcinoma.	NO
+hsa-mir-786	30061948	Comparison of exosomal microRNAs secreted by 786-O clear cell renal carcinoma cells and HK-2 proximal tubule-derived cells in culture identifies microRNA-205 as a potential biomarker of clear cell renal carcinoma.	NO
+hsa-mir-96	25776476	our data support the notion that sunitinib and everolimus are able to directly induce cell death in renal cancer cells and simultaneously affect the expression levels of their apoptosis-related microRNAs and BCL2 family members upon this process.	NO

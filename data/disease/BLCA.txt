@@ -1,0 +1,33 @@
+Disease name:	bladder urothelial carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-181a	36072391	RT-qPCR confirmed that four miRNAs are significantly downregulated in UC compared to healthy urothelial samples (miR-105a, miR-143, miR-181a, and miR-214).	Unknown
+hsa-mir-143	36072391	RT-qPCR confirmed that four miRNAs are significantly downregulated in UC compared to healthy urothelial samples (miR-105a, miR-143, miR-181a, and miR-214).	Unknown
+hsa-mir-16	34132358	Therefore, the results of the present study indicated that miR165p promotes autophagy of BC cells via the BIMP1/NFkappaB signaling pathway, and an improved understanding of miR165p function may provide therapeutic targets for clinical intervention in this disease.	Unknown
+hsa-mir-214	36072391	RT-qPCR confirmed that four miRNAs are significantly downregulated in UC compared to healthy urothelial samples (miR-105a, miR-143, miR-181a, and miR-214).	Unknown
+hsa-mir-299	31257534	Overall, the present study indicated that miR2993p functions as a tumor suppressor by directly targeting HPSE, highlighting its potential as a target for the treatment of GC.	Unknown
+hsa-mir-105a	36072391	RT-qPCR confirmed that four miRNAs are significantly downregulated in UC compared to healthy urothelial samples (miR-105a, miR-143, miR-181a, and miR-214).	Unknown
+hsa-mir-518	33532331	miR-450, miR-518s, transcription factor PAX3, KRAS and PTEN were potential markers for outcomes of urothelial bladder carcinoma.	Unknown
+hsa-mir-450	33532331	miR-450, miR-518s, transcription factor PAX3, KRAS and PTEN were potential markers for outcomes of urothelial bladder carcinoma.	Unknown
+hsa-mir-125b	32622721	Hsa-miR-125b is a target for TINCR in UCB.	Unknown
+hsa-mir-223	30942440	On the whole, the findings of this study reveal a novel miR223 target, oncogenic WDR62, and provided insight into the oncogenesis of BC.	Unknown
+hsa-mir-99a	30816432	Identifying novel genes targeted by tumorsuppressive miR99a3p in sunitinibresistant RCC cells may improve our understanding of intrinsic or acquired resistance and facilitate the development of novel therapeutic strategies.	Unknown
+hsa-mir-100	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-125b	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-129	28081549	MicroRNA promoter methylation: a new tool for accurate detection of urothelial carcinoma.	NO
+hsa-mir-135a	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-145	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-192	28928837	hsa-mir-7705, hsa-mir-192 and hsa-mir-518b can be applied as independent prognostic markers for bladder urothelial carcinoma	NO
+hsa-mir-21	27383043	miR-21 may be a prognostic marker for cancer progression.	NO
+hsa-mir-27a	24462738	Role of microRNA-27a in down-regulation of angiogenic factor AGGF1 under hypoxia associated with high-grade bladder urothelial carcinoma.	NO
+hsa-mir-29c	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-30a	26775686	Both miR-30a and small interfering RNA Notch1 negatively regulated cell proliferation	YES
+hsa-mir-331	30248959	NACC1, as a Target of MicroRNA-331-3p, Regulates Cell Proliferation in Urothelial Carcinoma Cells.	YES
+hsa-mir-33b	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-34b	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-372	27351382	high primary tumour levels of E2F1, miR-21 and miR-372 are associated with poor PFS independent of clinical prognostic factors.	NO
+hsa-mir-4324	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO
+hsa-mir-518b	28928837	hsa-mir-7705, hsa-mir-192 and hsa-mir-518b can be applied as independent prognostic markers for bladder urothelial carcinoma	NO
+hsa-mir-630	27752905	Expression of miRNA-630 in bladder urothelial carcinoma and its clinical significance.	NO
+hsa-mir-663a	28081549	MicroRNA promoter methylation: a new tool for accurate detection of urothelial carcinoma.	NO
+hsa-mir-7705	28928837	hsa-mir-7705, hsa-mir-192 and hsa-mir-518b can be applied as independent prognostic markers for bladder urothelial carcinoma	NO
+hsa-mir-99a	30026881	six were associated with high risk (hsa-miR-99a-5p, hsa-miR-100-5p, hsa-miR-125b-5p, hsa-miR-4324, hsa-miR-34b-5p, and hsa-miR-135a-3p) and three were shown to be protective (hsa-miR-145-5p, hsa-miR-29c-3p, and hsa-miR-33b-3p)	NO

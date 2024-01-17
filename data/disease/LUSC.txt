@@ -1,0 +1,85 @@
+Disease name:	lung squamous cell carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-21	35984198	Ten miRNAs were validated in the LUSC group: 3 upregulated - miR5p, miR3p, miR-650, and 7 downregulated - miR5p, miR3p, miR3p, miR5p, miR-375, miR3p, and miR3p.	Unknown
+hsa-mir-96	34477137	The SFTA1P/NKX2AS1, hsa-mir-503, GREM2 ceRNA axes and NKX2AS1, hsa-mir-96, PROK2 ceRNA axes were found to be important for the immune function, pathogenesis, and prognosis of SqCLC.	Unknown
+hsa-mir-144	30813343	Our previous study showed that both strands of pre-miR-144 acted as antitumor miRNAs and were involved in lung squamous cell carcinoma (LUSQ) pathogenesis.	Unknown
+hsa-mir-423	35273591	Finally, we confirmed upstream regulatory noncoding RNAs (ncRNAs) of LIMK2, and the PVT1 and DHRS4-AS1/miR5p/LIMK2 regulatory axes were successfully constructed in LUSC. Put together, LIMK2 is a novel prognostic biomarker and correlates with tumor immune cell infiltration in LUSC, and the expression of LIMK2 is regulated by the PVT1 and DHRS4-AS1/miR5p axes.	Unknown
+hsa-mir-28	35692583	We also constructed a ceRNA network and identified a lncRNA KCNQ1OT1/miR3p/IL1B regulatory axis for LUSC. We also constructed a ceRNA network and identified a lncRNA KCNQ1OT1/miR3p/IL1B regulatory axis for LUSC.	Unknown
+hsa-mir-27	35401185	These data suggest that iDNMT-induced inhibition of DNMT-1 enhances miR-27-3p expression in LSCC to inhibit activation of the Notch pathway.	Unknown
+hsa-mir-140	30660651	Collectively, our study suggests the prognostic and therapeutic roles of miR3p and BRD9 axis in squamous cell lung cancer.	Unknown
+hsa-mir-205	35712349	The miRNA-mRNA network of miR5p (up) and PTPRM (down) was validated in 30 pairs of LUSC tissues.	Unknown
+hsa-mir-29c	36017916	In conclusion, PLAC2 upregulates CDK6 by downregulating miR-29C to promote LSCC cell proliferation.	Unknown
+hsa-mir-503	34477137	The SFTA1P/NKX2AS1, hsa-mir-503, GREM2 ceRNA axes and NKX2AS1, hsa-mir-96, PROK2 ceRNA axes were found to be important for the immune function, pathogenesis, and prognosis of SqCLC.	Unknown
+hsa-mir-650	35984198	Ten miRNAs were validated in the LUSC group: 3 upregulated - miR5p, miR3p, miR-650, and 7 downregulated - miR5p, miR3p, miR3p, miR5p, miR-375, miR3p, and miR3p.	Unknown
+hsa-mir-744	35984198	Ten miRNAs were validated in the LUSC group: 3 upregulated - miR5p, miR3p, miR-650, and 7 downregulated - miR5p, miR3p, miR3p, miR5p, miR-375, miR3p, and miR3p.	Unknown
+hsa-mir-4689	35984198	Ten miRNAs were validated in the LUSC group: 3 upregulated - miR5p, miR3p, miR-650, and 7 downregulated - miR5p, miR3p, miR3p, miR5p, miR-375, miR3p, and miR3p.	Unknown
+hsa-mir-2278	35116269	RESULTS: Firstly, we found that three miRNAs, including hsa-miR-2278, hsa-miR-3176 and hsa-miR-3654 formed the core of ceRNA network of lung squamous cell carcinoma.	Unknown
+hsa-mir-654	35116269	RESULTS: Firstly, we found that three miRNAs, including hsa-miR-2278, hsa-miR-3176 and hsa-miR-3654 formed the core of ceRNA network of lung squamous cell carcinoma.	Unknown
+hsa-mir-3176	35116269	RESULTS: Firstly, we found that three miRNAs, including hsa-miR-2278, hsa-miR-3176 and hsa-miR-3654 formed the core of ceRNA network of lung squamous cell carcinoma.	Unknown
+hsa-mir-155	34277059	MicroRNA-155-5p promotes cell proliferation and invasion in lung squamous cell carcinoma through negative regulation of fibroblast growth factor 9 expression.	Unknown
+hsa-mir-195	31322197	Additionally, miR195 upregulation suppressed the viability and migration of SQCLC cells.	Unknown
+hsa-mir-125b	32614608	A tumor-suppressive role of miR-125b-5p is proposed, based on its effects on LUSC tumor growth, clinical stage progression, and lymph node metastasis.	Unknown
+hsa-mir-181a	34697393	DLX6-AS1 induced by H3K4me1 played an important role in promoting secondary cisplatin resistance of LUSC through regulating the miR-181a-5p/miR-382-5p/CELF1 axis.	Unknown
+hsa-mir-22	32691705	CONCLUSION: We assumed that the abnormal expression of miR-22 in lung squamous cell carcinoma may be involved in the development and progression of lung squamous cell carcinoma.	Unknown
+hsa-mir-9	32772818	MicroRNA9 can be a new prognostic marker and therapeutic target for lung squamous cell carcinoma.	Unknown
+hsa-mir-1	31059033	In summary, miR1 was significantly downregulated in LUSC, suggesting a novel and promising noninvasive biomarker for diagnosing LUSC, and miR1 was involved in LUSC progression via a number of significant pathways.	Unknown
+hsa-mir-665	33858426	These findings suggest that miR-665 might be a potential new target for LUSC therapy.	Unknown
+hsa-mir-382	34697393	DLX6-AS1 induced by H3K4me1 played an important role in promoting secondary cisplatin resistance of LUSC through regulating the miR-181a-5p/miR-382-5p/CELF1 axis.	Unknown
+hsa-mir-451a	30813343	In total, 15 putative oncogenic genes were shown to be regulated by miR-451a in LUSQ cells.	Unknown
+hsa-mir-299	32513149	CONCLUSION: MIR205HG acts as a competing endogenous RNA (ceRNA) to expedite cell proliferation and progression via targeting miR3p in LUSC.	Unknown
+hsa-mir-1306	34916847	CONCLUSION: miR-1306 functions as a prognostic indicator and tumor promoter of LUSC through targeting RBM3, which provides a potential therapeutic target of LUSC.	Unknown
+hsa-mir-579	31773684	CONCLUSIONS: The miR-579-3p/MSR1 axis might be a novel regulatory pathway of apoptosis, which could be used as potential therapeutic sites in SCLC.	Unknown
+hsa-let-7a	25802847	The novel candidate key drivers in this refined subnetwork, such as the methylation of ARHGDIB and HOXD3, microRNA let-7a and miR-31, and the CNV of AGAP2, were identified and analyzed.	NO
+hsa-let-7a	27666488	MicroRNAs modulate the expression of the SOX18 transcript in lung squamous cell carcinoma.	NO
+hsa-let-7i	20620595	let-7i:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-101-1	20620595	miR-101:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-101-2	20620595	miR-101:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-106a	29673101	a four-miRNA signature (miR-181a-5p, miR-21-5p, miR-106a-5p, and miR-93-5p) was identified for LSCC detection	NO
+hsa-mir-125a	20620595	miR-125a-5p:The miRNAs miR-185 * and miR-125a-5p were significantly upregulated in lung SCC	NO
+hsa-mir-126	25521201	rule discovery followed by distance separation is a powerful computational method to identify reliable miRNA biomarkers. The visualization of the rules and the clear separation between the normal and cancer samples by our rules will help biology experts for their analysis and biological interpretation.	NO
+hsa-mir-126	20620595	miR-126:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-133a	25518741	Further analysis of novel cancer signaling pathways modulated by the tumor-suppressive cluster miR-1/133a will provide insights into the molecular mechanisms of lung-SCC oncogenesis and metastasis	NO
+hsa-mir-140	21890451	The authors identified a five-microRNA classifier (hsa-miR-210, hsa-miR-182, hsa-miR-486-5p, hsa-miR-30a and hsa-miR-140-3p) that could distinguish SCC (Squamous cell carcinoma) from normal lung tissues.	NO
+hsa-mir-141	25746592	MicroRNA-141 is a biomarker for progression of squamous cell carcinoma and adenocarcinoma of the lung: clinical analysis of 125 patients.	NO
+hsa-mir-144	30375717	Involvement of dual-strand of the miR-144 duplex and their targets in the pathogenesis of lung squamous cell carcinoma.	NO
+hsa-mir-145	27765924	Dual-strand tumor-suppressor microRNA-145 (miR-145-5p and miR-145-3p) coordinately targeted MTDH in lung squamous cell carcinoma.	NO
+hsa-mir-15a	20620595	miR-15a:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-181a	29673101	a four-miRNA signature (miR-181a-5p, miR-21-5p, miR-106a-5p, and miR-93-5p) was identified for LSCC detection	NO
+hsa-mir-182	21890451	The authors identified a five-microRNA classifier (hsa-miR-210, hsa-miR-182, hsa-miR-486-5p, hsa-miR-30a and hsa-miR-140-3p) that could distinguish SCC (Squamous cell carcinoma) from normal lung tissues.	NO
+hsa-mir-182	24600991	We provide first time evidence through tissue microarray and quantitative PCR validation of mir-182 in the expression of lung squamous cell carcinoma. Our data provide a possible mechanism for lung cancer cell proliferation in lung squamous cell cancer and may be helpful in discovering a new strategy to reveal lung squamous cell carcinoma progress.	NO
+hsa-mir-183	25813410	This study describes the use of deep sequencing for comprehensive profiling of microRNAs in lung squamous cell carcinoma. The identified microRNA signatures may provide biomarkers for early detection, subclassification, and potential therapeutic targets of lung squamous cell carcinoma. This study also provides some insights into the molecular mechanism underlying the development and progression of lung squamous cell carcinoma, which may prove helpful for early diagnosis and treatment of the disease.	NO
+hsa-mir-185	20620595	miR-185:The miRNAs miR-185 * and miR-125a-5p were significantly upregulated in lung SCC	NO
+hsa-mir-192	29571988	MiR-192 and miR-662 enhance chemoresistance and invasiveness of squamous cell lung carcinoma	NO
+hsa-mir-193a	20620595	miR-193a-3p:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-196a	23074073	Validation of selected microRNAs by in situ hybridization demonstrated strong expression of hsa-miR-196a in the inner tumor; moderate expression of hsa-miR-224 in the inner tumor and tumor front, and strong expression of hsa-miR-650 in the adjacent lung tissue.	NO
+hsa-mir-19a	24130905	Tumor cells secrete miRNA-containing exosomes into circulation, and that miRNA profiling of the exosomal plasma fraction may reveal powerful cancer biomarkers.	NO
+hsa-mir-19b	24130905	Tumor cells secrete miRNA-containing exosomes into circulation, and that miRNA profiling of the exosomal plasma fraction may reveal powerful cancer biomarkers.	NO
+hsa-mir-205	24130905	Tumor cells secrete miRNA-containing exosomes into circulation, and that miRNA profiling of the exosomal plasma fraction may reveal powerful cancer biomarkers.	NO
+hsa-mir-205	25521201	rule discovery followed by distance separation is a powerful computational method to identify reliable miRNA biomarkers. The visualization of the rules and the clear separation between the normal and cancer samples by our rules will help biology experts for their analysis and biological interpretation.	NO
+hsa-mir-205	24438615	We confirmed the high diagnostic accuracy of miR-205 in discriminating SQ from AC and SCLC in Chinese patients. Moreover, we identified 11 significant target genes of miR-205 which could be used for further functional studies as the basis for the development of SQ targeted therapies.	NO
+hsa-mir-206	25522678	the novel molecular mechanisms of lung-SCC oncogenesis and new therapeutic approaches for the treatment of this disease.	NO
+hsa-mir-20a	24130905	Tumor cells secrete miRNA-containing exosomes into circulation, and that miRNA profiling of the exosomal plasma fraction may reveal powerful cancer biomarkers.	NO
+hsa-mir-21	29673101	a four-miRNA signature (miR-181a-5p, miR-21-5p, miR-106a-5p, and miR-93-5p) was identified for LSCC detection	NO
+hsa-mir-21	25084400	MicroRNA-21 (miR-21) regulates cellular proliferation, invasion, migration, and apoptosis by targeting PTEN, RECK and Bcl-2 in lung squamous carcinoma, Gejiu City, China.	YES
+hsa-mir-210	21890451	The authors identified a five-microRNA classifier (hsa-miR-210, hsa-miR-182, hsa-miR-486-5p, hsa-miR-30a and hsa-miR-140-3p) that could distinguish SCC (Squamous cell carcinoma) from normal lung tissues.	NO
+hsa-mir-218	27633630	Regulation of TPD52 by antitumor microRNA-218 suppresses cancer cell migration and invasion in lung squamous cell carcinoma.	YES
+hsa-mir-218	25813410	This study describes the use of deep sequencing for comprehensive profiling of microRNAs in lung squamous cell carcinoma. The identified microRNA signatures may provide biomarkers for early detection, subclassification, and potential therapeutic targets of lung squamous cell carcinoma. This study also provides some insights into the molecular mechanism underlying the development and progression of lung squamous cell carcinoma, which may prove helpful for early diagnosis and treatment of the disease.	NO
+hsa-mir-224	23074073	Validation of selected microRNAs by in situ hybridization demonstrated strong expression of hsa-miR-196a in the inner tumor; moderate expression of hsa-miR-224 in the inner tumor and tumor front, and strong expression of hsa-miR-650 in the adjacent lung tissue.	NO
+hsa-mir-24	27666488	MicroRNAs modulate the expression of the SOX18 transcript in lung squamous cell carcinoma.	NO
+hsa-mir-29	26676674	Elucidation of the novel lung SCC molecular pathways and targets regulated by tumor-suppressive miR-29s will provide new insights into the potential mechanisms of oncogenesis and metastasis of the disease.	YES
+hsa-mir-296	30337605	miR-296-5p, miR-324-3p, and miR-3928-3p expression was significantly associated with poor prognosis	NO
+hsa-mir-30a	20620595	miR-30a:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-30a	21890451	The authors identified a five-microRNA classifier (hsa-miR-210, hsa-miR-182, hsa-miR-486-5p, hsa-miR-30a and hsa-miR-140-3p) that could distinguish SCC (Squamous cell carcinoma) from normal lung tissues.	NO
+hsa-mir-30b	24130905	Tumor cells secrete miRNA-containing exosomes into circulation, and that miRNA profiling of the exosomal plasma fraction may reveal powerful cancer biomarkers.	NO
+hsa-mir-30d	20620595	miR-30d:Seven human miRNAs (miR-126, miR-193a-3p, miR-30d, miR-30a, miR-101, let-7i, and miR-15a) were found to be significantly downregulated in lung SCC	NO
+hsa-mir-324	30337605	miR-296-5p, miR-324-3p, and miR-3928-3p expression was significantly associated with poor prognosis	NO
+hsa-mir-375	28214218	Implication of downregulation and prospective pathway signaling of microRNA-375 in lung squamous cell carcinoma.	NO
+hsa-mir-3928	30337605	miR-296-5p, miR-324-3p, and miR-3928-3p expression was significantly associated with poor prognosis	NO
+hsa-mir-425	25813410	This study describes the use of deep sequencing for comprehensive profiling of microRNAs in lung squamous cell carcinoma. The identified microRNA signatures may provide biomarkers for early detection, subclassification, and potential therapeutic targets of lung squamous cell carcinoma. This study also provides some insights into the molecular mechanism underlying the development and progression of lung squamous cell carcinoma, which may prove helpful for early diagnosis and treatment of the disease.	NO
+hsa-mir-486	21890451	The authors identified a five-microRNA classifier (hsa-miR-210, hsa-miR-182, hsa-miR-486-5p, hsa-miR-30a and hsa-miR-140-3p) that could distinguish SCC (Squamous cell carcinoma) from normal lung tissues.	NO
+hsa-mir-588	27571908	MicroRNA-588 suppresses tumor cell migration and invasion by targeting GRN in lung squamous cell carcinoma.	YES
+hsa-mir-650	23074073	Validation of selected microRNAs by in situ hybridization demonstrated strong expression of hsa-miR-196a in the inner tumor; moderate expression of hsa-miR-224 in the inner tumor and tumor front, and strong expression of hsa-miR-650 in the adjacent lung tissue.	NO
+hsa-mir-661	19584273	miR-146b alone have the strongest prediction accuracy for stratifying prognostic groups;	NO
+hsa-mir-662	29571988	MiR-192 and miR-662 enhance chemoresistance and invasiveness of squamous cell lung carcinoma	NO
+hsa-mir-93	29673101	a four-miRNA signature (miR-181a-5p, miR-21-5p, miR-106a-5p, and miR-93-5p) was identified for LSCC detection	NO
+hsa-mir-98	25521201	rule discovery followed by distance separation is a powerful computational method to identify reliable miRNA biomarkers. The visualization of the rules and the clear separation between the normal and cancer samples by our rules will help biology experts for their analysis and biological interpretation.	NO

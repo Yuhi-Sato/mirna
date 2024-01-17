@@ -1,0 +1,20 @@
+Disease name:	Melanoma, Cutaneous Malignant
+miRNA_name	PMID	Description	Causality
+hsa-let-7a	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-let-7b	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-106b	26662433	This study showed that miR-106b may contribute to the progression of cutaneous melanoma and its up-regulation may be independently associated with poor prognosis of cutaneous melanoma. This suggests that miR-106b might serve as a promising biological marker for further risk stratification in the management of cutaneous melanoma.	NO
+hsa-mir-125b	24762088	Our results confirm the theory that miR-125b functions as a tumour supressor in cutaneous malignant melanoma by regulating cellular senescence,which is one of the central mechanisms protecting against the development and progression of malignant melanoma.	YES
+hsa-mir-137	26763596	miR-137 expression was lower in CM tissues.	NO
+hsa-mir-149	28466785	Identification of plasma microRNAs as new potential biomarkers with high diagnostic power in human cutaneous melanoma.	NO
+hsa-mir-150	28466785	Identification of plasma microRNAs as new potential biomarkers with high diagnostic power in human cutaneous melanoma.	NO
+hsa-mir-15b	28466785	Identification of plasma microRNAs as new potential biomarkers with high diagnostic power in human cutaneous melanoma.	NO
+hsa-mir-182	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-193a	28466785	Identification of plasma microRNAs as new potential biomarkers with high diagnostic power in human cutaneous melanoma.	NO
+hsa-mir-199b	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-205	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-21	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-330	27363653	Enforced expression of miR-330-5p inhibits malignant CMM cells proliferation and migration and led to downregulation of the TYR and PDIA3 protein.	YES
+hsa-mir-423	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-424	28218741	Identification of microRNAs associated with invasive and aggressive phenotype in cutaneous melanoma by next-generation sequencing.	NO
+hsa-mir-4262	27779691	miR-4262 promotes the proliferation of human cutaneous malignant melanoma cells through KLF6-mediated EGFR inactivation and p21 upregulation.	YES
+hsa-mir-524	28466785	Identification of plasma microRNAs as new potential biomarkers with high diagnostic power in human cutaneous melanoma.	NO

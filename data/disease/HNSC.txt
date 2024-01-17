@@ -1,0 +1,169 @@
+Disease name:	Carcinoma, squamous cell of head and neck
+miRNA_name	PMID	Description	Causality
+hsa-let-7a	26323893	In conclusion, we identified a subset of microRNAs that were differentially expressed in ALDH1-high subpopulation, providing new microRNA targets to study dysregulation of HNSCC-initiating cells and develop therapeutic strategies aimed at eradicating the tumorigenic stem cells in HNSCC.	NO
+hsa-let-7a	25862914	The microRNA profile seems to play a potential role in the pathobiology of oropharyngeal and laryngeal HNSCC. Up-regulation of miR34a in p16-positive oropharyngeal cancer has not been so far described and additional studies are warranted.	NO
+hsa-let-7d	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-let-7g	25677760	decreased expressions of miR-153, miR-200c, miR-363, miR-203, miR-17, miR-205, miR-Let-7d, Let-7g, miR-34a, miR-126a, miR-375, miR-491-p5, miR 218, miR-451 and miR-125b were associated with poor prognosis.	NO
+hsa-let-7i	26257063	IB suppresses EMT and stemness of HNSCC cells through inhibition of Twist1-mediated let-7i downregulation and Rac1 activation and the EMT signalling.	NO
+hsa-let-7i	23454123	In clinical HNSCC samples, let-7i expression was inversely correlated with BMP4 expression. Our results revealed that let-7i attenuates mesenchymal-mode migration of HNSCC cells through repression of a novel target, BMP4.	NO
+hsa-let-7i	20145181	overexpression	NO
+hsa-mir-1	27169691	miR-1 and miR-206 significantly inhibited HNSCC cells' aggressiveness.	YES
+hsa-mir-100	29880533	the expression of MIR100HG-embedded microRNA, miR-100, was significantly associated with overall survival in an independent cohort of HNSCC cases 	NO
+hsa-mir-100	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-101-1	21532618	The tumor suppressor gene rap1GAP is silenced by miR-101-mediated EZH2 overexpression in invasive squamous cell carcinoma.	NO
+hsa-mir-101-1	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-101-2	21532618	The tumor suppressor gene rap1GAP is silenced by miR-101-mediated EZH2 overexpression in invasive squamous cell carcinoma.	NO
+hsa-mir-101-2	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-106a	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-106b	20145181	Upregulation	NO
+hsa-mir-10a	20145181	downregulation	NO
+hsa-mir-10a	28495058	miRNA profiling of primary lung and head and neck squamous cell carcinomas: Addressing a diagnostic dilemma.	NO
+hsa-mir-10b	27002147	DOT1L-associated epigenetic changes induced by HA play pivotal roles in miR-10 production leading to up-regulation of RhoGTPase and survival proteins.	NO
+hsa-mir-10b	19540661	tumor suppresser; suppressed cell invasion and led to cell cycle arrest and apoptosis; potential theraeutic target	YES
+hsa-mir-10b	28495058	miRNA profiling of primary lung and head and neck squamous cell carcinomas: Addressing a diagnostic dilemma.	NO
+hsa-mir-1-1	21378409	miR-1 as a tumor suppressive microRNA targeting TAGLN2 in head and neck squamous cell carcinoma.	YES
+hsa-mir-1-2	21378409	miR-1 as a tumor suppressive microRNA targeting TAGLN2 in head and neck squamous cell carcinoma.	YES
+hsa-mir-124	26227488	miR-124 Regulates the Epithelial-Restricted with Serine Box/Epidermal Growth Factor Receptor Signaling Axis in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-124	28212569	MiR-124 acts as a tumor suppressor by inhibiting the expression of sphingosine kinase 1 and its downstream signaling in head and neck squamous cell carcinoma.	YES
+hsa-mir-1252	29927717	The differential expression profiles of these reporter biomolecules were cross-validated by independent RNA-Seq and miRNA-Seq datasets, and risk discrimination performance of the reporter biomolecules, BLNK, CCL2, E4F1, FOSL1, ISG15, MMP9, MYCN, MYH11, miR-1252, miR-29b, miR-29c, miR-3610, miR-431, and miR-523, was also evaluated	NO
+hsa-mir-1254	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-125b	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-125b	29667275	miR-26 and miR-125b may be associated with the progression and metastasis of HNSCC, and that miR-203 is associated with a more favourable prognosis.	NO
+hsa-mir-128	25764126	Functions of MiRNA-128 on the regulation of head and neck squamous cell carcinoma growth and apoptosis.	NO
+hsa-mir-129-2	29455435	two namely Hsa-miR-129-2-3p and Hsa-miR-449a were found to be up-regulated as compared to HPV -ve cells	NO
+hsa-mir-130a	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-137	21425146	MicroRNA-137 promoter methylation is associated with poorer overall survival in patients with squamous cell carcinoma of the head and neck.	NO
+hsa-mir-138	24565984	These findings strongly suggest that the inhibition of RhoC can be achieved by over expressing miR-138, which further attenuates the downstream signaling cascade leading to cancer progression and survival. Moreover, this study for the first time shows that down regulation of FAK, Src and Erk(1/2) by miR-138 overexpression is due to inhibition of RhoC in HNSCC.	YES
+hsa-mir-138	24747032	MicroRNA-138: a potential therapeutic target for head and neck squamous cell carcinoma (HNSCC).	NO
+hsa-mir-138-1	21770894	MicroRNA-138 suppresses epithelial-mesenchymal transition in squamous cell carcinoma cell lines.	NO
+hsa-mir-138-1	21969367	In this study, the authors first confirm the microRNA-138-mediated down-regulation of FOSL1 in squamous cell carcinoma (SCC) cell lines.	NO
+hsa-mir-138-2	21770894	MicroRNA-138 suppresses epithelial-mesenchymal transition in squamous cell carcinoma cell lines.	NO
+hsa-mir-138-2	21969367	In this study, the authors first confirm the microRNA-138-mediated down-regulation of FOSL1 in squamous cell carcinoma (SCC) cell lines.	NO
+hsa-mir-139	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-141	24424572	Role of miR-200c/miR-141 in the regulation of epithelial-mesenchymal transition and migration in head and neck squamous cell carcinoma.	NO
+hsa-mir-142	20145181	miR-142-3p; overexpression	NO
+hsa-mir-146a	26621153	Characterizing the expression of miR-146a and miR-155 and their functional role in tumor biology underlined significantly their proliferation and migration potential suggesting relevance as potential prognostic markers in HNSCC.	NO
+hsa-mir-147b	26323893	In conclusion, we identified a subset of microRNAs that were differentially expressed in ALDH1-high subpopulation, providing new microRNA targets to study dysregulation of HNSCC-initiating cells and develop therapeutic strategies aimed at eradicating the tumorigenic stem cells in HNSCC.	NO
+hsa-mir-149	23272122	The Association between Genetic Polymorphism and the Processing Efficiency of miR-149 Affects the Prognosis of Patients with Head and Neck Squamous Cell Carcinoma	NO
+hsa-mir-149	27515039	However, no significant association was detected between the other three SNPs (miR-149 rs2292832, miR-146a rs2910164, and miR-608 rs4919510) and HNSCC risk.	NO
+hsa-mir-150	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-150	29233721	Antitumor miR-150-5p and miR-150-3p inhibit cancer cell aggressiveness by targeting SPOCK1 in head and neck squamous cell carcinoma.	NO
+hsa-mir-155	26621153	Characterizing the expression of miR-146a and miR-155 and their functional role in tumor biology underlined significantly their proliferation and migration potential suggesting relevance as potential prognostic markers in HNSCC.	NO
+hsa-mir-155	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-155	26694378	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-155	28347920	MiR-200b and miR-155 as predictive biomarkers for the efficacy of chemoradiation in locally advanced head and neck squamous cell carcinoma.	NO
+hsa-mir-155	20145181	overexpression	NO
+hsa-mir-15a	27896137	Lymph node or perineural invasion is associated with low miR-15a, miR-34c and miR-199b levels in head and neck squamous cell carcinoma.	NO
+hsa-mir-15b	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-16	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-17	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-181a-1	21274007	deltaNp63alpha-dependent miRNA miR-181a, miR-519a, and miR-374a downregulation in HNSCC,miR-630 upregulation in HNSCC	NO
+hsa-mir-181a-2	21274007	deltaNp63alpha-dependent miRNA miR-181a, miR-519a, and miR-374a downregulation in HNSCC,miR-630 upregulation in HNSCC	NO
+hsa-mir-181b-1	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-181b-2	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-181d	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-182	27744260	Overexpression of TP53 mutation-associated microRNA-182 promotes tumor cell proliferation and migration in head and neck squamous cell carcinoma.	YES
+hsa-mir-182	29356167	there is frequent and concordant upregulation of miR-31, miR-96, and miR-182 during HNSCC and these miRNAs co-target Numb	YES
+hsa-mir-184	21934093	The authors found that, compared with the rs8126 TT (a SNP of miR-184 Binding Site in TNFAIP2) genotype, the variant C allele were associated with increased SCCHN risk in an allele-dose response manner (adjusted odds ratio=1.48 and 95% confidence interval=1.06-2.05 for CC, respectively; P(trend)=0.009).	NO
+hsa-mir-184	25351569	Treatment with the precursors of these miRNAs increases the proliferation and migration of HNSCC cells.	YES
+hsa-mir-18a	25677760	significant elevated expressions of miR-21, miR-18a, miR-134a, miR-210, miR-181a, miR-19a, and miR-155 were associated with poor survival in human HNSCC.	NO
+hsa-mir-193a	21293058	miR-193a-5p, expression of which was repressed by p63, was activated by proapoptotic p73 isoforms in both normal cells and tumor cells in vivo.	NO
+hsa-mir-193b	25677760	Alteration in miR-193b expression level does not show any significant association with cancer survival.	NO
+hsa-mir-193b	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-195	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-196a	25860510	These results show that miR-196a and HOXB9 are overexpressed,perhaps co-ordinately, as HNSCC develops and exert a pro-tumourigenic phenotype in HNSCC and OPM cells.	YES
+hsa-mir-196a-2	29705927	Single nucleotide polymorphism rs11614913 associated with CC genotype in miR-196a2 is overrepresented in laryngeal squamous cell carcinoma, but not salivary gland tumors in Polish population.	NO
+hsa-mir-197	21560177	Docetaxel resistant cells showed significant downregulation of miR-100, miR-130a, and miR-197 and upregulation in miR-101, miR-181b, miR-181d, and miR-195 expression when compared with their parent cells (p < .01).	NO
+hsa-mir-199b	27896137	Lymph node or perineural invasion is associated with low miR-15a, miR-34c and miR-199b levels in head and neck squamous cell carcinoma.	NO
+hsa-mir-200a	28677748	Salivary miR-93 and miR-200a as post-radiotherapy biomarkers in head and neck squamous cell carcinoma.	NO
+hsa-mir-200b	27440205	Additionally, a significant decrease of hsa-miR-200b-5p expression was revealed in tumour-adjacent tissue samples of patients with node positivity.	NO
+hsa-mir-200b	28347920	MiR-200b and miR-155 as predictive biomarkers for the efficacy of chemoradiation in locally advanced head and neck squamous cell carcinoma.	NO
+hsa-mir-200c	21294122	MicroRNA-200c attenuates tumour growth and metastasis of presumptive head and neck squamous cell carcinoma stem cells.	NO
+hsa-mir-200c	24424572	Role of miR-200c/miR-141 in the regulation of epithelial-mesenchymal transition and migration in head and neck squamous cell carcinoma.	NO
+hsa-mir-200c	21899661	The expression of ZEB1, a target mRNA for miR-200c, was up-regulated 3 and 6 hours after HGF stimulation.	NO
+hsa-mir-200c	25862914	The microRNA profile seems to play a potential role in the pathobiology of oropharyngeal and laryngeal HNSCC. Up-regulation of miR34a in p16-positive oropharyngeal cancer has not been so far described and additional studies are warranted.	NO
+hsa-mir-203	26882562	oreover, ectopic overexpression of miR-203 suppressed the invasion and induced mesenchymal-epithelial transition (MET) in HNSCC cells.	YES
+hsa-mir-203	18483491	we have shown that miR-203 can regulate DeltaNp63 levels upon genotoxic damage in head and neck squamous cell carcinoma cells, thus controlling cell survival.	YES
+hsa-mir-203	29667275	miR-26 and miR-125b may be associated with the progression and metastasis of HNSCC, and that miR-203 is associated with a more favourable prognosis.	NO
+hsa-mir-205	20428818	miR-205:miR-205 and miR-21 are specific markers for HNSCC and ESCC	NO
+hsa-mir-206	27169691	restoration of miR-1 and miR-206 significantly inhibited HNSCC cells' aggressiveness.	YES
+hsa-mir-206	28987947	MiR-206 inhibits Head and neck squamous cell carcinoma cell progression by targeting HDAC6 via PTEN/AKT/mTOR pathway.	YES
+hsa-mir-20a	20145181	Upregulation	NO
+hsa-mir-20b	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-21	22094257	Targeting of the Tumor Suppressor GRHL3 by a miR-21-Dependent Proto-Oncogenic Network Results in PTEN Loss and Tumorigenesis.	NO
+hsa-mir-21	24327270	CLU is a specific, functional target of oncogenic miRNA-21 in HNSCCs. CLU-1 isoform is the predominant growth-suppressive variant targeted by miRNA-21.	NO
+hsa-mir-21	21685938	Stem cell marker (Nanog) and Stat-3 signaling promote MicroRNA-21 expression and chemoresistance in hyaluronan/CD44-activated head and neck squamous cell carcinoma cells.	NO
+hsa-mir-21	25175929	miR-21 increases the programmed cell death 4 gene-regulated cell proliferation in head and neck squamous carcinoma cell lines.	NO
+hsa-mir-21	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-21	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-21	28138036	Suppression of the Growth and Invasion of Human Head and Neck Squamous Cell Carcinomas via Regulating STAT3 Signaling and the miR-21/β-catenin Axis with HJC0152.	NO
+hsa-mir-21	26690371	miR-21 cooperates with CDK5 to promote EMT and invasion in HNSCC.This finding suggests that CDK5 may be an important cofactor for targeting when designing metastasis-blocking therapy by targeting STAT3/miR-21 axis with STAT3 inhibitor or miR-21 antisense oligonucleotide. This is the first demonstration of the novel role of STAT3/miR-21 axis and CDK5/CDK5R1 (p35) in metastasis of HNSCC.	YES
+hsa-mir-21	20145181	overexpression	NO
+hsa-mir-21	20428818	miR-21:miR-205 and miR-21 are specific markers for HNSCC and ESCC	NO
+hsa-mir-21	25862914	The microRNA profile seems to play a potential role in the pathobiology of oropharyngeal and laryngeal HNSCC. Up-regulation of miR34a in p16-positive oropharyngeal cancer has not been so far described and additional studies are warranted.	NO
+hsa-mir-210	20187102	Expression of hsa-miR-210 in head and neck cancer correlates with other approaches for assessing hypoxia and is associated with prognosis	NO
+hsa-mir-210	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-211	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-218-1	23159910	Tumor suppressive microRNA-218 inhibits cancer cell migration and invasion through targeting laminin-332 in head and neck squamous cell carcinoma	YES
+hsa-mir-218-2	23159910	Tumor suppressive microRNA-218 inhibits cancer cell migration and invasion through targeting laminin-332 in head and neck squamous cell carcinoma	YES
+hsa-mir-221	26464363	Expression of mirR221/222 is correlated to cell cycle regulation,carcinogenesis, and chemoresistance. Detailed knowledge of the molecular mechanisms and effects ofmiRNAs is important for identifying miRNAs as cancermarkers, as well as for increasing the efficiency of cancer therapeutics.	NO
+hsa-mir-222	26464363	Expression of mirR221/222 is correlated to cell cycle regulation,carcinogenesis, and chemoresistance. Detailed knowledge of the molecular mechanisms and effects ofmiRNAs is important for identifying miRNAs as cancermarkers, as well as for increasing the efficiency of cancer therapeutics.	NO
+hsa-mir-23a	24317043	Transfection with anti-miR-23a inhibited the proliferation of HN4 cells and induced cell apoptosis.	YES
+hsa-mir-24	27513190	Inhibition of miR-24-3p reduced cell proliferation, colony formation efficiency and reversed chemoresistance in HNSCC cells.	YES
+hsa-mir-26	29667275	miR-26 and miR-125b may be associated with the progression and metastasis of HNSCC, and that miR-203 is associated with a more favourable prognosis.	NO
+hsa-mir-27b	21899661	The expression of ST14/matriptase an enzyme for extracellular matrix (ECM) degradation and HGF activation and a target mRNA for miR-27b, was drastically up-regulated in protein level after HGF stimulation.	NO
+hsa-mir-29	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-29a	24091622	Downregulation of miR-29s was a frequent event in HNSCC. The miR-29s acted as tumour suppressors and directly targeted laminin-integrin signalling. Recognition of tumour-suppressive miRNA-mediated cancer pathways provides new insights into the potential mechanisms of HNSCC oncogenesis and metastasis and suggests novel therapeutic strategies for the disease.	YES
+hsa-mir-29b	24091622	Downregulation of miR-29s was a frequent event in HNSCC. The miR-29s acted as tumour suppressors and directly targeted laminin-integrin signalling. Recognition of tumour-suppressive miRNA-mediated cancer pathways provides new insights into the potential mechanisms of HNSCC oncogenesis and metastasis and suggests novel therapeutic strategies for the disease.	YES
+hsa-mir-29b	29927717	The differential expression profiles of these reporter biomolecules were cross-validated by independent RNA-Seq and miRNA-Seq datasets, and risk discrimination performance of the reporter biomolecules, BLNK, CCL2, E4F1, FOSL1, ISG15, MMP9, MYCN, MYH11, miR-1252, miR-29b, miR-29c, miR-3610, miR-431, and miR-523, was also evaluated	NO
+hsa-mir-29c	24091622	Downregulation of miR-29s was a frequent event in HNSCC. The miR-29s acted as tumour suppressors and directly targeted laminin-integrin signalling. Recognition of tumour-suppressive miRNA-mediated cancer pathways provides new insights into the potential mechanisms of HNSCC oncogenesis and metastasis and suggests novel therapeutic strategies for the disease.	YES
+hsa-mir-29c	27440205	Lower expression of hsa-miR-200b-5p and hsa-miR-29c-3p in HNSCC tumour tissue was associated with higher tumour grade.	NO
+hsa-mir-29c	29927717	The differential expression profiles of these reporter biomolecules were cross-validated by independent RNA-Seq and miRNA-Seq datasets, and risk discrimination performance of the reporter biomolecules, BLNK, CCL2, E4F1, FOSL1, ISG15, MMP9, MYCN, MYH11, miR-1252, miR-29b, miR-29c, miR-3610, miR-431, and miR-523, was also evaluated	NO
+hsa-mir-30a	26472042	Alcohol induces the dysregulation of miR-30a and miR-934, which may play crucial roles in HNSCC pathogenesis and progression. Future investigation of the alcohol-mediated pathways effecting these transformations will prove valuable for furthering the understanding and treatment of alcohol-associated HNSCC.	NO
+hsa-mir-31	27528032	miR-31 associated oncogenicities were rescued by ARID1A expression in HNSCC cells.	YES
+hsa-mir-31	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-31	29356167	there is frequent and concordant upregulation of miR-31, miR-96, and miR-182 during HNSCC and these miRNAs co-target Numb	YES
+hsa-mir-34a	25762634	MiR-34a suppresses amphiregulin and tumor metastatic potential of head and neck squamous cell carcinoma (HNSCC).	NO
+hsa-mir-34a	26323460	MicroRNA-34a regulates epithelial-mesenchymal transition and cancer stem cell phenotype of head and neck squamous cell carcinoma in vitro.	YES
+hsa-mir-34a	28495058	miRNA profiling of primary lung and head and neck squamous cell carcinomas: Addressing a diagnostic dilemma.	NO
+hsa-mir-34a	25862914	The microRNA profile seems to play a potential role in the pathobiology of oropharyngeal and laryngeal HNSCC. Up-regulation of miR34a in p16-positive oropharyngeal cancer has not been so far described and additional studies are warranted.	NO
+hsa-mir-34c	27896137	Lymph node or perineural invasion is associated with low miR-15a, miR-34c and miR-199b levels in head and neck squamous cell carcinoma.	NO
+hsa-mir-3610	29927717	The differential expression profiles of these reporter biomolecules were cross-validated by independent RNA-Seq and miRNA-Seq datasets, and risk discrimination performance of the reporter biomolecules, BLNK, CCL2, E4F1, FOSL1, ISG15, MMP9, MYCN, MYH11, miR-1252, miR-29b, miR-29c, miR-3610, miR-431, and miR-523, was also evaluated	NO
+hsa-mir-372	25714028	miR-372 inhibits p62 in head and neck squamous cell carcinoma in vitro and in vivo.	NO
+hsa-mir-373	26452218	Together, we demonstrate the feasibility of using a miRNA signature to predict the clinical responsiveness of HNSCC radiotherapy.	NO
+hsa-mir-375	26172508	MicroRNA-375 Suppresses Extracellular Matrix Degradation and Invadopodial Activity in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-375	28941018	The available literature supports differential expression of both microRNAs and long non-coding RNAs, which include oncogenic ncRNAs (miR-21, miR-31, miR-155, miR-211, HOTAIR, and MALAT1) and tumor suppressor ncRNAs (let7d, miR-17, miR-375, miR-139, and MEG3) in HPV+ve HNSCC tumors as compared to HPV-ve tumors and they have distinct role in the pathophysiology of these two types of HNSCCs	NO
+hsa-mir-375	21753766	Tumor suppressive microRNA-375 regulates oncogene AEG-1/MTDH in head and neck squamous cell carcinoma (HNSCC).	YES
+hsa-mir-375	28499703	miR-375 Regulates Invasion-Related Proteins Vimentin and L-Plastin.	NO
+hsa-mir-375	20145181	underexpression	NO
+hsa-mir-375	27440205	Primary HNSCC carcinoma tissues can be distinguished from histologically normal-matched noncancerous tumour-adjacent tissues based on hsa-miR-375-3p expression.	NO
+hsa-mir-375	25862914	The microRNA profile seems to play a potential role in the pathobiology of oropharyngeal and laryngeal HNSCC. Up-regulation of miR34a in p16-positive oropharyngeal cancer has not been so far described and additional studies are warranted.	NO
+hsa-mir-376c	27760788	Dysregulation of RUNX2/Activin-A Axis upon miR-376c Downregulation Promotes Lymph Node Metastasis in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-423	20145181	Upregulation	NO
+hsa-mir-424	26323893	In conclusion, we identified a subset of microRNAs that were differentially expressed in ALDH1-high subpopulation, providing new microRNA targets to study dysregulation of HNSCC-initiating cells and develop therapeutic strategies aimed at eradicating the tumorigenic stem cells in HNSCC.	NO
+hsa-mir-431	29927717	The differential expression profiles of these reporter biomolecules were cross-validated by independent RNA-Seq and miRNA-Seq datasets, and risk discrimination performance of the reporter biomolecules, BLNK, CCL2, E4F1, FOSL1, ISG15, MMP9, MYCN, MYH11, miR-1252, miR-29b, miR-29c, miR-3610, miR-431, and miR-523, was also evaluated	NO
+hsa-mir-449a	29455435	two namely Hsa-miR-129-2-3p and Hsa-miR-449a were found to be up-regulated as compared to HPV -ve cells	NO
+hsa-mir-451	26506880	And overexpression of miRNA-451 in cells with low endogenous expression of miRNA-451 accelerated proliferation.	YES
+hsa-mir-455	27109697	miR-193b-3p and miR-455-5p were positively associated with survival, and miR-92a-3p and miR-497-5p were negatively associated with survival in OPSCC.	NO
+hsa-mir-491	25677760	Conversely, decreased expressions of miR-153, miR-200c, miR-363, miR-203, miR-17, miR-205, miR-Let-7d, Let-7g, miR-34a, miR-126a, miR-375, miR-491-p5, miR 218, miR-451 and miR-125b were associated with poor prognosis.	NO
+hsa-mir-499	20549817	Of the 4 SNPs that were studied, the hsa-mir-499 AG and GG genotypes were associated with a reduced risk of SCCHN	NO
+hsa-mir-512	26258591	miR-512-5p suppresses tumor growth by targeting hTERT in telomerase positive head and neck squamous cell carcinoma in vitro and in vivo.	YES
+hsa-mir-519a-1	21274007	deltaNp63alpha-dependent miRNA miR-181a, miR-519a, and miR-374a downregulation in HNSCC,miR-630 upregulation in HNSCC	NO
+hsa-mir-519a-2	21274007	deltaNp63alpha-dependent miRNA miR-181a, miR-519a, and miR-374a downregulation in HNSCC,miR-630 upregulation in HNSCC	NO
+hsa-mir-523	29927717	The differential expression profiles of these reporter biomolecules were cross-validated by independent RNA-Seq and miRNA-Seq datasets, and risk discrimination performance of the reporter biomolecules, BLNK, CCL2, E4F1, FOSL1, ISG15, MMP9, MYCN, MYH11, miR-1252, miR-29b, miR-29c, miR-3610, miR-431, and miR-523, was also evaluated	NO
+hsa-mir-548b	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-582	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-675	27994496	Overexpression of lncRNA H19/miR-675 promotes tumorigenesis in head and neck squamous cell carcinoma.	YES
+hsa-mir-6836	26323893	In conclusion, we identified a subset of microRNAs that were differentially expressed in ALDH1-high subpopulation, providing new microRNA targets to study dysregulation of HNSCC-initiating cells and develop therapeutic strategies aimed at eradicating the tumorigenic stem cells in HNSCC.	NO
+hsa-mir-6873	26323893	In conclusion, we identified a subset of microRNAs that were differentially expressed in ALDH1-high subpopulation, providing new microRNA targets to study dysregulation of HNSCC-initiating cells and develop therapeutic strategies aimed at eradicating the tumorigenic stem cells in HNSCC.	NO
+hsa-mir-7152	26323893	In conclusion, we identified a subset of microRNAs that were differentially expressed in ALDH1-high subpopulation, providing new microRNA targets to study dysregulation of HNSCC-initiating cells and develop therapeutic strategies aimed at eradicating the tumorigenic stem cells in HNSCC.	NO
+hsa-mir-874	23558898	Tumour-suppressive microRNA-874 contributes to cell proliferation through targeting of histone deacetylase 1 in head and neck squamous cell carcinoma	YES
+hsa-mir-876	30181714	MiR-876-5p modulates head and neck squamous cell carcinoma metastasis and invasion by targeting vimentin.	YES
+hsa-mir-885	22071691	miR-885-3p modulated the cisplatin-induced TP53-dependent mitochondrial apoptosis by up regulation of MDM4 levels and down regulation of BCL2 levels in mitochondria. Altogether, our results support the notion that miR-885-3p might contribute in regulation of cell viability, apoptosis and/or autophagy in squamous cell carcinoma cells upon cisplatin exposure.	NO
+hsa-mir-9-1	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-9-2	26694379	MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell Carcinoma.	NO
+hsa-mir-93	25578493	miR-93 may be a valuable marker for the prediction of metastasis and prognosis in HNSCC.	NO
+hsa-mir-93	28677748	Salivary miR-93 and miR-200a as post-radiotherapy biomarkers in head and neck squamous cell carcinoma.	NO
+hsa-mir-934	26472042	Alcohol induces the dysregulation of miR-30a and miR-934, which may play crucial roles in HNSCC pathogenesis and progression. Future investigation of the alcohol-mediated pathways effecting these transformations will prove valuable for furthering the understanding and treatment of alcohol-associated HNSCC.	NO
+hsa-mir-96	29356167	there is frequent and concordant upregulation of miR-31, miR-96, and miR-182 during HNSCC and these miRNAs co-target Numb	YES
+hsa-mir-99a	30087832	our study may provide insights into the expression and mechanism of miR-99a-5p in HNSCC	NO

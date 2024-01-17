@@ -1,0 +1,45 @@
+Disease name:	Sarcoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-378a	34277600	Afterward, we constructed an immune infiltration-related risk score model based on the expression of IRF1, MFNG, hsa-miR-940, and hsa-miR-378a-5p, presenting a promising performance in predicting the prognosis of patients with sarcoma.	Unknown
+hsa-mir-1307	34541347	We evaluated the expression levels of miR3p in sera obtained from 254 patients with thirteen types of cancer (colon cancer, lung cancer, gastric cancer, liver cancer, bladder cancer esophageal cancer, breast cancer, ovarian cancer, prostate cancer, pancreatic cancer, biliary tract cancer, brain cancer, sarcoma) and 27 non-cancer samples using isothermal amplification and microRNA chip.	Unknown
+hsa-mir-379	33436720	Differentially methylated regions and genes were detected, not been previously implicated in sarcoma progression, including at PTPRN2 and DAXX in LMS, WT1-AS and TNXB in SS, VENTX and NTRK3 in pleomorphic RMS and MEST and the C14MC / miR-379/miR-656 in MFS.	Unknown
+hsa-mir-671	36016604	The results showed that miR-671 rs1870238 GC CC (OR = 1.963, 95% CI = 1.258-3.064, P = 0.003) and miR-671 rs2446065 CG GG (OR =1.838, 95% CI = 1.178-2.868, P = 0.007) may be genetic risk factors for STSs after adjustment for age and smoking. Therefore, this study suggests that individuals carrying the GC CC genotype for miR-671 rs1870238 or the CG GG genotype for miR-671 rs2446065 are susceptible to STSs.	Unknown
+hsa-mir-1226	31739284	this study illustrated the potential mechanism of hsa-miR-1226-3p regulating MUC1 and dendritic cells resting might play an important role in STS recurrence.	Unknown
+hsa-mir-940	34277600	Afterward, we constructed an immune infiltration-related risk score model based on the expression of IRF1, MFNG, hsa-miR-940, and hsa-miR-378a-5p, presenting a promising performance in predicting the prognosis of patients with sarcoma.	Unknown
+hsa-mir-656	33436720	Differentially methylated regions and genes were detected, not been previously implicated in sarcoma progression, including at PTPRN2 and DAXX in LMS, WT1-AS and TNXB in SS, VENTX and NTRK3 in pleomorphic RMS and MEST and the C14MC / miR-379/miR-656 in MFS.	Unknown
+hsa-mir-155	32806571	In conclusion, the oncomiR miR-155-5p and the tumor suppressor-miR miR-203a-3p exhibit an association with STS patient prognosis and are suggested as candidates for risk assessment.	Unknown
+hsa-mir-203a	32806571	In conclusion, the oncomiR miR-155-5p and the tumor suppressor-miR miR-203a-3p exhibit an association with STS patient prognosis and are suggested as candidates for risk assessment.	Unknown
+hsa-let-7e	33066614	The expression of let-7e and 4 of its target genes are potential prognostic biomarkers in high-risk localized intestinal GIST.	Unknown
+hsa-mir-429	31884798	miR-429 appears to have a tumor-suppression role in renal cell carcinoma (RCC), breast cancer (BC), gastric carcinoma (GC), glioblastoma (GBM), esophageal cancer (EC), osteosarcoma, oral squamous cell carcinoma (OSCC), cervical cancer (CC), pancreatic cancer, tongue squamous cell carcinoma (TSCC), nephroblastoma, nasopharyngeal carcinoma (NPC) and soft tissue sarcomas.	Unknown
+hsa-let-7	31147574	Our results highlight an important role for the LIN28B/LET-7 axis in human sarcoma pathogenesis and suggest that the therapeutic targeting of LIN28B may be relevant for patients with sarcoma.	Unknown
+hsa-mir-29c	32127798	The ceRNA network, especially the subnetwork LncRNA (KCNQ1OT1)-miRNA (has-miR-29c-3p)-mRNA (JARID2, CDK8, DNMT3A, TET1) was a promising therapeutic target for the STS sub-cluster associated with a poor prognosis.	Unknown
+hsa-mir-141	27402864	combined expression of miR-200s and GRHL2 further upregulates epithelial genes to induce MET.	NO
+hsa-mir-16	26044957	miR-16, but not other downregulated miRNAs, was able to significantly suppress both migration and invasion in vitro	YES
+hsa-mir-17	23128393	Interestingly, the levels of onco-miR-17 locus coded miRNAs (miR-17-5p and miR-20a) were decreased upon TAF15 depletion and shown to affect the post-transcriptional regulation of TAF15-dependent genes,such as CDKN1A/p21.	NO
+hsa-mir-182	25180607	MicroRNA-182 drives metastasis of primary sarcomas by targeting multiple genes.	YES
+hsa-mir-182	26314219	Thus, our findings suggest that demethylating agents could potentially be used to modulate miR-182 levels as a therapeutic strategy.	NO
+hsa-mir-182	26234681	these results suggest that sarcoma metastasis can be partially controlled through Pax7/MyoD-dependent activation of miR-182 and provide insight into the role that myogenic transcription factors have in sarcoma progression.	NO
+hsa-mir-200a	27402864	combined expression of miR-200s and GRHL2 further upregulates epithelial genes to induce MET.	NO
+hsa-mir-200b	27402864	combined expression of miR-200s and GRHL2 further upregulates epithelial genes to induce MET.	NO
+hsa-mir-200c	27402864	combined expression of miR-200s and GRHL2 further upregulates epithelial genes to induce MET.	NO
+hsa-mir-206	24327545	SMARCB1 expression in epithelioid sarcoma is regulated by miR-206, miR-381, and miR-671-5p on Both mRNA and protein levels.	NO
+hsa-mir-206	30111166	The oncomir face of microRNA-206: A permanent miR-206 transfection study.	YES
+hsa-mir-206	26878133	miR-133, miR-1, and miR-206 was significantly underexpressed in well-differentiated liposarcoma and synovial sarcoma	NO
+hsa-mir-206	27223121	At least threefold overexpression of one of miR-206,-381, and 671-5p was detected in all MPNSTs, EMCSs, SSs and 7 MCs.	NO
+hsa-mir-20a	23128393	Interestingly, the levels of onco-miR-17 locus coded miRNAs (miR-17-5p and miR-20a) were decreased upon TAF15 depletion and shown to affect the post-transcriptional regulation of TAF15-dependent genes,such as CDKN1A/p21.	NO
+hsa-mir-210	24927770	Here we provide evidence for the miRNA mediated regulation of HIF3α by hypoxia responsive miRNAs in STS, which may help to tightly regulate and fine-tune the hypoxic response. This provides a better insight into the mechanisms underlying the hypoxic response in STS and may ultimately yield information on novel prognostic and predictive markers or targets for treatment.	NO
+hsa-mir-210	21455991	Expression of microRNA 210 associates with poor survival and age of tumor onset of soft-tissue sarcoma patients.	NO
+hsa-mir-34a	21225432	Frequent concomitant inactivation of miR-34a and miR-34b/c by CpG methylation in colorectal, pancreatic, mammary, ovarian, urothelial, and renal cell carcinomas and soft tissue sarcomas.	NO
+hsa-mir-34b	21225432	Frequent concomitant inactivation of miR-34a and miR-34b/c by CpG methylation in colorectal, pancreatic, mammary, ovarian, urothelial, and renal cell carcinomas and soft tissue sarcomas.	NO
+hsa-mir-34b	25773680	Hypermethylation of potential tumor suppressor miR-34b/c is correlated with late clinical stage in patients with soft tissue sarcomas.	NO
+hsa-mir-34c	21225432	Frequent concomitant inactivation of miR-34a and miR-34b/c by CpG methylation in colorectal, pancreatic, mammary, ovarian, urothelial, and renal cell carcinomas and soft tissue sarcomas.	NO
+hsa-mir-34c	25773680	Hypermethylation of potential tumor suppressor miR-34b/c is correlated with late clinical stage in patients with soft tissue sarcomas.	NO
+hsa-mir-381	24327545	SMARCB1 expression in epithelioid sarcoma is regulated by miR-206, miR-381, and miR-671-5p on Both mRNA and protein levels.	NO
+hsa-mir-381	27223121	At least threefold overexpression of one of miR-206,-381, and 671-5p was detected in all MPNSTs, EMCSs, SSs and 7 MCs.	NO
+hsa-mir-409	29430619	A Regulatory Circuitry Between Gria2, miR-409, and miR-495 Is Affected by ALS FUS Mutation in ESC-Derived Motor Neurons.	NO
+hsa-mir-429	27402864	combined expression of miR-200s and GRHL2 further upregulates epithelial genes to induce MET.	NO
+hsa-mir-485	24927770	Here we provide evidence for the miRNA mediated regulation of HIF3α by hypoxia responsive miRNAs in STS, which may help to tightly regulate and fine-tune the hypoxic response. This provides a better insight into the mechanisms underlying the hypoxic response in STS and may ultimately yield information on novel prognostic and predictive markers or targets for treatment.	NO
+hsa-mir-495	29430619	A Regulatory Circuitry Between Gria2, miR-409, and miR-495 Is Affected by ALS FUS Mutation in ESC-Derived Motor Neurons.	NO
+hsa-mir-671	24327545	SMARCB1 expression in epithelioid sarcoma is regulated by miR-206, miR-381, and miR-671-5p on Both mRNA and protein levels.	NO
+hsa-mir-671	27223121	At least threefold overexpression of one of miR-206,-381, and 671-5p was detected in all MPNSTs, EMCSs, SSs and 7 MCs.	NO
+hsa-mir-765	27223121	miR-765 could possibly be a diagnostic tool for ES because of its 97% specificity and 80% sensitivity.	NO

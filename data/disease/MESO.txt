@@ -1,0 +1,15 @@
+Disease name:	Mesothelioma
+miRNA_name	PMID	Description	Causality
+hsa-mir-206	33996251	Our pre-clinical study suggests a potential pathophysiologic role for, and therapeutic relevance of, miR-206 in MPM.	Unknown
+hsa-mir-142	36724751	CONCLUSION: This study proposed that the miR3p/ITGAV axis is involved in tumor progression in malignant mesothelioma.	Unknown
+hsa-mir-34a	33338854	In the present study, miR-16 and miR-34a were transfected, singularly and in combination, in MPM cell lines H2052 and H28, and their effects on cell proliferation and sensitivity to cisplatin are reported. Consequently, although the potential of miR-16 and miR-34a is confirmed, we must conclude that their combination does not improve the response of MPM to chemotherapy.	Unknown
+hsa-mir-16	33338854	In the present study, miR-16 and miR-34a were transfected, singularly and in combination, in MPM cell lines H2052 and H28, and their effects on cell proliferation and sensitivity to cisplatin are reported. Consequently, although the potential of miR-16 and miR-34a is confirmed, we must conclude that their combination does not improve the response of MPM to chemotherapy.	Unknown
+hsa-mir-28	33890321	Thus, this study aimed to demonstrate the mesothelioma-inducing potential of chrysotile at the mesothelial cellular level and the function of microRNA-28 in malignantly transformed mesothelial MeT-5A cells. Surprisingly, the content of miR-28 in the blood of mesothelioma patients was higher than that in control subjects.	Unknown
+hsa-mir-582	31681739	Notably, based on the co-expression patterns between ceRNAs and Immune cells, we found that the hsa-miR5p, CASP9, dendritic cells resting, ANIX2, T cells CD8, and T cells CD4 memory resting might be associated with the mesothelioma bone metastasis.	Unknown
+hsa-mir-182	30406026	Our previous study showed that miR-182 and miR-183 are upregulated in malignant mesothelioma. Targeting the miR-182/183-FOXO1 axis could serve as a novel treatment against malignant mesothelioma.	Unknown
+hsa-mir-18a	32382354	Therefore, miR-18a may be a potential therapeutic target for mesothelioma resistant to cisplatin.	Unknown
+hsa-mir-486	33955505	Furthermore, these results provide support for the combined use of miR4865p with chemotherapy as a therapeutic strategy for MPM.	Unknown
+hsa-mir-183	30406026	Our previous study showed that miR-182 and miR-183 are upregulated in malignant mesothelioma. Targeting the miR-182/183-FOXO1 axis could serve as a novel treatment against malignant mesothelioma.	Unknown
+hsa-mir-98	32114955	Survival analysis revealed that high expression of only hsa-miR-98 was significantly associated with poor prognosis in patients with asbestos-exposed MPM. Evidence suggests that management of the aggressiveness and progression of asbestos-induced MPM may require high levels of hsa-miR-98 due to its tumor-suppressive role.	Unknown
+hsa-mir-215	31227395	Our results suggest a potential pathophysiologic role for and therapeutic significance of miR-215-5p in MPM.	Unknown
+hsa-mir-196b	34874752	Furthermore, miR-196b-5p may be a potential biomarker for mesothelioma.	Unknown

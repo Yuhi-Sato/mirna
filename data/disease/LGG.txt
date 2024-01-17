@@ -1,0 +1,3 @@
+Disease name:	low grade glioma
+miRNA_name	PMID	Description	Causality
+hsa-mir-138	32214825	CONCLUSION: miR-138 may function as a tumor inhibitor by directly inhibiting IGF2BP2 and suppressing EMT in the progression of LGG.	Unknown

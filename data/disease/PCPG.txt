@@ -1,0 +1,22 @@
+Disease name:	Pheochromocytoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-182	34536193	RESULTS: Our computational analysis identified four candidate miRNAs that showed elevated expression in metastatic compared to non-metastatic PCPGs: miR-182, miR-183, miR-96, and miR-383. Finally, using univariate and multivariate analysis, we found miRNA miR-182 to be an independent predictor of metastasis-free survival in PCPGs.	Unknown
+hsa-mir-375	35269556	We also demonstrated miR-375 overexpression and downregulated (Wnt) signaling and identified the Hippo pathway as a new potentially oncogenic feature of Pheo.	Unknown
+hsa-mir-210	31146085	The aim of this study was to investigate if serum microRNA-210 (miR-210) levels could be a marker of malignancy in patients with PPGLs. CONCLUSIONS: In this pilot study, low serum miR-210 expression levels and large primary tumors were identified to be markers of PPGL malignancy on univariable analysis.	Unknown
+hsa-mir-148b	32506974	OBJECTIVES: To investigate effects of circular RNA (circRNA) 001372 and its antagonist miRNAs-148b-3p on propofol-induced neurotoxicity and neuroinflammation in rat brain and pheochromocytoma cells.	Unknown
+hsa-mir-21	31410193	We propose miR3p to select mPPGL patients who may benefit from mTOR inhibitors.	Unknown
+hsa-mir-218	36221434	METHODS: In this study, pheochromocytoma cells (PC12 cells) were pretreated with different concentrations of Curcumin and then co-treated with Curcumin and glucose for 48 hours, and the cell viability was evaluated by CCK-8, the expression of the inflammatory mediators were detected by ELISA, the miR5p and toll-like receptors (TLR4) level were examined by both quantitative real-time polymerase chain reaction (qRT-PCR) and Western blotting, the potential target genes of miR5p were identified using luciferase reporter assay.	Unknown
+hsa-mir-101	25973039	Role of miR-101 in pheochromocytoma patients with SDHD mutation.	NO
+hsa-mir-101-1	22241719	miR-483-5p, miR-183, and miR-101 had significantly higher expression in malignant tumors as compared to their benign counterparts.	NO
+hsa-mir-101-2	22241719	miR-483-5p, miR-183, and miR-101 had significantly higher expression in malignant tumors as compared to their benign counterparts.	NO
+hsa-mir-183	23660872	We demonstrated that miR-183 and/or miR-96 impede NGF-induced differentiation in PC12 cells.	NO
+hsa-mir-183	22241719	miR-483-5p, miR-183, and miR-101 had significantly higher expression in malignant tumors as compared to their benign counterparts.	NO
+hsa-mir-210	29018330	MicroRNA-210 Protects PC-12 Cells Against Hypoxia-Induced Injury by Targeting BNIP3.	YES
+hsa-mir-483	22241719	miR-483-5p, miR-183, and miR-101 had significantly higher expression in malignant tumors as compared to their benign counterparts.	NO
+hsa-mir-96	23660872	We demonstrated that miR-183 and/or miR-96 impede NGF-induced differentiation in PC12 cells.	NO
+
+Disease name:	Paraganglioma
+miRNA_name	PMID	Description	Causality
+hsa-mir-182	34536193	RESULTS: Our computational analysis identified four candidate miRNAs that showed elevated expression in metastatic compared to non-metastatic PCPGs: miR-182, miR-183, miR-96, and miR-383. Finally, using univariate and multivariate analysis, we found miRNA miR-182 to be an independent predictor of metastasis-free survival in PCPGs.	Unknown
+hsa-mir-210	31146085	The aim of this study was to investigate if serum microRNA-210 (miR-210) levels could be a marker of malignancy in patients with PPGLs. CONCLUSIONS: In this pilot study, low serum miR-210 expression levels and large primary tumors were identified to be markers of PPGL malignancy on univariable analysis.	Unknown
+hsa-mir-21	31410193	We propose miR3p to select mPPGL patients who may benefit from mTOR inhibitors.	Unknown

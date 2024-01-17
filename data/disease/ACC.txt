@@ -1,0 +1,106 @@
+Disease name:	Adrenocortical Carcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-195	35205648	We have identified three miRNA combinations (hsa-miR-195 hsa-miR-210 hsa-miR-503; hsa-miR-210 hsa-miR-375 hsa-miR-503 and hsa-miR-210 hsa-miR5p hsa-miR-503) as unexpectedly good predictors to determine adrenocortical malignancy with sensitivity and specificity both of over 90%.	Unknown
+hsa-mir-130b	32175564	CONCLUSIONS: The present study inferred that the metastasis-related ceRNAs of H2AFX, hsa-miR-130b-3p and Macrophages M0 might play important roles in ACC metastasis.	Unknown
+hsa-mir-375	35205648	We have identified three miRNA combinations (hsa-miR-195 hsa-miR-210 hsa-miR-503; hsa-miR-210 hsa-miR-375 hsa-miR-503 and hsa-miR-210 hsa-miR5p hsa-miR-503) as unexpectedly good predictors to determine adrenocortical malignancy with sensitivity and specificity both of over 90%.	Unknown
+hsa-mir-210	35205648	We have identified three miRNA combinations (hsa-miR-195 hsa-miR-210 hsa-miR-503; hsa-miR-210 hsa-miR-375 hsa-miR-503 and hsa-miR-210 hsa-miR5p hsa-miR-503) as unexpectedly good predictors to determine adrenocortical malignancy with sensitivity and specificity both of over 90%.	Unknown
+hsa-mir-140	35765893	And up-regulated LINC01234 in ACC cells significantly reversed the degradation of BRD4 by miR3p. Collectively, we deduce that LINC01234 functions as a ceRNA to regulate BRD4 expression by sponging miR3p in ACC progress.	Unknown
+hsa-mir-196a	33289788	In addition, the pooled result revealed that elevated miR-196a expression in tumor tissues (HR = 2.54, 95% CI: 1.79-3.61, PHeterogeneity=0.000, I2 = 75.8%) or serum/plasma (HR = 4.06, 95% CI: 2.67-6.18, PHeterogeneity=0.668, I2 = 0%) of patients was an unfavorable survival biomarker, which was consistent with the data from databases (adrenocortical carcinoma: HR = 5.70; esophageal carcinoma: HR = 1.93; brain lower grade glioma: HR = 2.91; GSE40267: HR = 2.47, 95% CI: 1.2-5.07; TCGA: HR = 1.82, 95% CI: 1.21-2.74; GSE19783: HR = 4.24, 95% CI: 1-18.06).	Unknown
+hsa-mir-503	35205648	We have identified three miRNA combinations (hsa-miR-195 hsa-miR-210 hsa-miR-503; hsa-miR-210 hsa-miR-375 hsa-miR-503 and hsa-miR-210 hsa-miR5p hsa-miR-503) as unexpectedly good predictors to determine adrenocortical malignancy with sensitivity and specificity both of over 90%.	Unknown
+hsa-mir-675	36169175	The downregulated expression of H19 in ACC compared to ACA correlated with miR675 expression hosted by H19.	Unknown
+hsa-mir-483	35205648	We have identified three miRNA combinations (hsa-miR-195 hsa-miR-210 hsa-miR-503; hsa-miR-210 hsa-miR-375 hsa-miR-503 and hsa-miR-210 hsa-miR5p hsa-miR-503) as unexpectedly good predictors to determine adrenocortical malignancy with sensitivity and specificity both of over 90%.	Unknown
+hsa-mir-483	31149197	In this field of research, epigenetic studies identified a common signature in ACC, where the most altered miRNA found in ACC (miR5p) seems now to represent a concrete biomarker to be used in the pre-operative diagnosis of ACC.	Unknown
+hsa-mir-29b	35116967	Finally, through Kaplan-Meier survival analysis, we identified five lncRNAs (LINC00887, MEIS1-AS2, MIR29B2CHG, MIR503HG, and SREBF2-AS1) associated with prognosis in patients with ACC.	Unknown
+hsa-mir-124	33582182	L51P) was associated with adCC, and AQP5 could participate in the maintenance of lens transparency by regulating vimentin expression via miR3p.1.	Unknown
+hsa-mir-486	34285285	The latter included the known suppressor miRNA miR3p, which was chosen for transfection in human adrenocortical carcinoma cell lines H295R and SW13.	Unknown
+hsa-mir-503	35116967	Finally, through Kaplan-Meier survival analysis, we identified five lncRNAs (LINC00887, MEIS1-AS2, MIR29B2CHG, MIR503HG, and SREBF2-AS1) associated with prognosis in patients with ACC.	Unknown
+hsa-mir-431	30918109	RESULTS: microRNA-431 (miR-431) was underexpressed in patients with ACC with progressive disease undergoing adjuvant therapy. We found that a reversal of epithelial-mesenchymal transition underlies the action of miR-431 with doxorubicin treatment, with Zinc Finger E-Box Binding Homeobox 1 implicated as the molecular target of miR-431 in ACC.	Unknown
+hsa-mir-514a	33195693	What is more, circ-CCAC1 enhanced C22orf46 expression by sponging miR-514a-5p in ACC cells. A rescue assay illustrated that circ-CCAC1 facilitated ACC progression through miR-514a-5p/C22orf46 signaling.	Unknown
+hsa-let-7a-1	19351815	let-7a: upregulated	NO
+hsa-let-7a-2	19351815	let-7a: upregulated	NO
+hsa-let-7a-3	19351815	let-7a: upregulated	NO
+hsa-let-7b	19351815	let-7b: upregulated	NO
+hsa-let-7c	19351815	let-7c: upregulated	NO
+hsa-let-7d	19351815	let-7d: upregulated	NO
+hsa-mir-100	21472710	miRs -100, -125b, and -195 were significantly down-regulated, whereas miR-483-5p was significantly up-regulated in malignant as compared with benign tumors.	NO
+hsa-mir-100	19351815	miR-100: upregulated	NO
+hsa-mir-106b	19351815	miR-106b: down-regulated	NO
+hsa-mir-1-1	19351815	miR-1: upregulated	NO
+hsa-mir-1-2	19351815	miR-1: upregulated	NO
+hsa-mir-125b	24205079	miR-125b, miRNA-200b, miR-122, miRNA-466b, miR-138,vmiRNA-214, miRNA-503 and miRNA27a were down-regulated in response to 17α-E2 treatment.	NO
+hsa-mir-125b-1	21472710	miRs -100, -125b, and -195 were significantly down-regulated, whereas miR-483-5p was significantly up-regulated in malignant as compared with benign tumors.	NO
+hsa-mir-125b-1	19351815	miR-125b: upregulated	NO
+hsa-mir-125b-2	21472710	miRs -100, -125b, and -195 were significantly down-regulated, whereas miR-483-5p was significantly up-regulated in malignant as compared with benign tumors.	NO
+hsa-mir-125b-2	19351815	miR-125b: upregulated	NO
+hsa-mir-126	19351815	miR-126: upregulated	NO
+hsa-mir-130a	19351815	miR-130a: upregulated	NO
+hsa-mir-132	24205079	ACTH up-regulated the expression of miRNA-212, miRNA-182, miRNA-183, miRNA-132, and miRNA-96 and down-regulated the levels of miRNA-466b, miRNA-214, miRNA-503, and miRNA-27a.	NO
+hsa-mir-132	19351815	miR-132: upregulated	NO
+hsa-mir-133a-1	19351815	miR-133a: upregulated	NO
+hsa-mir-133a-2	19351815	miR-133a: upregulated	NO
+hsa-mir-135a-1	19351815	miR-135a: upregulated	NO
+hsa-mir-135a-2	19351815	miR-135a: upregulated	NO
+hsa-mir-137	19351815	miR-137: upregulated	NO
+hsa-mir-139	29516499	MiR-483-5p and miR-139-5p promote aggressiveness by targeting N-myc downstream-regulated gene family members in adrenocortical cancer.	YES
+hsa-mir-139	19351815	miR-139: down-regulated	NO
+hsa-mir-139	21471143	ACCs (adrenocortical carcinomas) exhibited significantly lower levels of miR-139-3p (up to 8.49-fold, p<0.001), miR-675 (up to 23.25-fold, p<0.001) and miR-335 (up to 5.25-fold, p<0.001).	NO
+hsa-mir-143	19351815	miR-143: upregulated	NO
+hsa-mir-145	19351815	miR-145: upregulated	NO
+hsa-mir-146a	19351815	miR-146a: upregulated	NO
+hsa-mir-148a	19351815	miR-148a: down-regulated	NO
+hsa-mir-155	19351815	miR-155: upregulated	NO
+hsa-mir-15b	19351815	miR-15b: upregulated	NO
+hsa-mir-16-1	19351815	miR-16: upregulated	NO
+hsa-mir-16-2	19351815	miR-16: upregulated	NO
+hsa-mir-17	19351815	miR-17-5p: upregulated	NO
+hsa-mir-192	19351815	miR-192: upregulated	NO
+hsa-mir-194-1	19351815	miR-194: upregulated	NO
+hsa-mir-194-2	19351815	miR-194: upregulated	NO
+hsa-mir-195	23756429	Serum miR-483-5p and miR-195 are predictive of recurrence risk in adrenocortical cancer patients.	NO
+hsa-mir-195	21472710	miRs -100, -125b, and -195 were significantly down-regulated, whereas miR-483-5p was significantly up-regulated in malignant as compared with benign tumors.	NO
+hsa-mir-195	21859927	Among others, miR-483-3p, miR-483-5p, miR-210, and miR-21 were found overexpressed,while miR-195, miR-497, and miR-1974 were underexpressed in ACC. 	NO
+hsa-mir-195	24890943	In conclusion, (a) miR-483-3p, miR-483-5p, and miR-210 are differentially expressed in ACC variants, and (b) high miR-210 is associated with clinicopathologic parameters of aggressiveness and a poor prognosis.	NO
+hsa-mir-196a-1	19351815	miR-196a: down-regulated	NO
+hsa-mir-196a-2	19351815	miR-196a: down-regulated	NO
+hsa-mir-1974	21859927	Among others, miR-483-3p, miR-483-5p, miR-210, and miR-21 were found overexpressed,while miR-195, miR-497, and miR-1974 were underexpressed in ACC. 	NO
+hsa-mir-1974	24890943	In conclusion, (a) miR-483-3p, miR-483-5p, and miR-210 are differentially expressed in ACC variants, and (b) high miR-210 is associated with clinicopathologic parameters of aggressiveness and a poor prognosis.	NO
+hsa-mir-200b	19351815	miR-200b: upregulated	NO
+hsa-mir-200c	19351815	miR-200c: upregulated	NO
+hsa-mir-203	19351815	miR-203: upregulated	NO
+hsa-mir-205	26397843	In conclusion, miR-205 suppresses the growth of ACC SW-13 cells via targeting the anti-apoptotic gene Bcl-2.	YES
+hsa-mir-21	21859927	Among others, miR-483-3p, miR-483-5p, miR-210, and miR-21 were found overexpressed,while miR-195, miR-497, and miR-1974 were underexpressed in ACC. 	NO
+hsa-mir-210	27550961	Preclinical progress and first translational steps for a liposomal chemotherapy protocol against adrenocortical carcinoma.	NO
+hsa-mir-210	19351815	miR-210: down-regulated	NO
+hsa-mir-210	24890943	In conclusion, (a) miR-483-3p, miR-483-5p, and miR-210 are differentially expressed in ACC variants, and (b) high miR-210 is associated with clinicopathologic parameters of aggressiveness and a poor prognosis.	NO
+hsa-mir-210	21859927	Among others, miR-483-3p, miR-483-5p, miR-210, and miR-21 were found overexpressed,while miR-195, miR-497, and miR-1974 were underexpressed in ACC. 	NO
+hsa-mir-212	24205079	The levels of miR-212,miRNA-183, miRNA-182, miRNA-132, miRNA-370, miRNA-377, and miRNA-96 were up-regulated, whereas miR-125b, miRNA-200b, miR-122, miRNA-466b, miR-138, miRNA-214, miRNA-503 and miRNA27a were down-regulated in response to 17α-E2 treatment.	NO
+hsa-mir-222	19351815	miR-222: upregulated	NO
+hsa-mir-23b	19351815	miR-23b: upregulated	NO
+hsa-mir-28	19351815	miR-28: upregulated	NO
+hsa-mir-301a	19351815	miR-301: down-regulated	NO
+hsa-mir-301b	19351815	miR-301: down-regulated	NO
+hsa-mir-30a	19351815	miR-30a-3p: upregulated	NO
+hsa-mir-335	19351815	miR-335: upregulated	NO
+hsa-mir-34a	24238045	We show that dysregulated miRNAs in ACC are detectable in human serum samples. MiR-34a and miR-483-5p are candidate serum biomarkers for distinguishing between benign and malignant adrenocortical tumors.	NO
+hsa-mir-375	19351815	miR-375: upregulated	NO
+hsa-mir-375	21471143	ACCs (adrenocortical carcinomas) exhibited significantly lower levels of miR-139-3p (up to 8.49-fold, p<0.001), miR-675 (up to 23.25-fold, p<0.001) and miR-335 (up to 5.25-fold, p<0.001).	NO
+hsa-mir-376a-1	19351815	miR-376: down-regulated	NO
+hsa-mir-376a-2	19351815	miR-376: down-regulated	NO
+hsa-mir-376b	19351815	miR-376: down-regulated	NO
+hsa-mir-376c	19351815	miR-376: down-regulated	NO
+hsa-mir-424	19351815	miR-424: down-regulated	NO
+hsa-mir-449a	19351815	miR-449: upregulated	NO
+hsa-mir-449b	19351815	miR-449: upregulated	NO
+hsa-mir-483	23756429	Serum miR-483-5p and miR-195 are predictive of recurrence risk in adrenocortical cancer patients.	NO
+hsa-mir-483	24238045	We show that dysregulated miRNAs in ACC are detectable in human serum samples. MiR-34a and miR-483-5p are candidate serum biomarkers for distinguishing between benign and malignant adrenocortical tumors.	NO
+hsa-mir-483	29516499	MiR-483-5p and miR-139-5p promote aggressiveness by targeting N-myc downstream-regulated gene family members in adrenocortical cancer.	YES
+hsa-mir-483	24890943	In conclusion, (a) miR-483-3p, miR-483-5p, and miR-210 are differentially expressed in ACC variants, and (b) high miR-210 is associated with clinicopathologic parameters of aggressiveness and a poor prognosis.	NO
+hsa-mir-483	21472710	miRs -100, -125b, and -195 were significantly down-regulated, whereas miR-483-5p was significantly up-regulated in malignant as compared with benign tumors.	NO
+hsa-mir-483	21859927	Among others, miR-483-3p, miR-483-5p, miR-210, and miR-21 were found overexpressed,while miR-195, miR-497, and miR-1974 were underexpressed in ACC. 	NO
+hsa-mir-484	19351815	miR-484: down-regulated	NO
+hsa-mir-491	19351815	miR-491: down-regulated	NO
+hsa-mir-497	21859927	Among others, miR-483-3p, miR-483-5p, miR-210, and miR-21 were found overexpressed,while miR-195, miR-497, and miR-1974 were underexpressed in ACC. 	NO
+hsa-mir-675	21471143	ACCs (adrenocortical carcinomas) exhibited significantly lower levels of miR-139-3p (up to 8.49-fold, p<0.001), miR-675 (up to 23.25-fold, p<0.001) and miR-335 (up to 5.25-fold, p<0.001).	NO
+hsa-mir-7-1	19351815	miR-7: upregulated	NO
+hsa-mir-7-2	19351815	miR-7: upregulated	NO
+hsa-mir-7-3	19351815	miR-7: upregulated	NO

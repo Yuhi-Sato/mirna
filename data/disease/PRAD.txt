@@ -1,0 +1,3 @@
+Disease name:	prostate adenocarcinoma
+miRNA_name	PMID	Description	Causality
+hsa-mir-30	35581421	In conclusion, this study demonstrated that KDM5A promoted PRAD by suppressing miR-330-3p and activating the COPB2/PI3K/AKT axis in an ETS1-dependent manner.	Unknown
