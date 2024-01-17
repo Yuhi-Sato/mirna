@@ -1,11 +1,9 @@
 import numpy as np
-from pathlib import Path
-
-rootpath = str(Path(__file__).resolve().parent.parent.parent)
+from path import data_dir
 
 # NOTE: 塩基配列の配列
 sequences = []
-with open(rootpath + "/data/sequence.csv", "r") as f:
+with open(data_dir + "/sequence.csv", "r") as f:
     for line in f:
         line = line.rstrip().split(",")
         sequences.append(line[0])
