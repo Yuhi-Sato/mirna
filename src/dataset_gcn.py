@@ -7,7 +7,7 @@ from dataset_predict import (
 import numpy as np
 from n_grams import f
 from torch_geometric.data import Data
-from torch_geometric.utils import to_edge_index
+from torch_geometric.utils import to_edge_index, remove_self_loops
 import random
 from path import data_dir
 
@@ -75,6 +75,7 @@ class Disease:
 def get_data(disease_type: int, seed: int) -> Data:
     A = torch.from_numpy(functional_similarity.similarity).to_sparse()
     tuple = to_edge_index(A)
+    tuple = remove_self_loops(tuple[0], tuple[1])
     edge_index, edge_attr = tuple[0], tuple[1]
 
     disease = Disease(path=data_dir + "/disease/", features=features)
